@@ -1,0 +1,2842 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2741"
+   x="0"
+   y="0"
+   height="1531"
+   id="/home/extremetomato/Desktop/top level"
+   sodipodi:version="0.32"
+   inkscape:version="0.45"
+   sodipodi:docname="top level.svg"
+   sodipodi:docbase="/mnt/usb"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata8036">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8034" />
+  <sodipodi:namedview
+     inkscape:window-height="887"
+     inkscape:window-width="1195"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1"
+     inkscape:cx="1038.646"
+     inkscape:cy="952.98274"
+     inkscape:window-x="1280"
+     inkscape:window-y="768"
+     inkscape:current-layer="/home/extremetomato/Desktop/top level" />
+  <rect
+     width="2741"
+     x="50"
+     y="126"
+     height="1531"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,255,255);"
+     id="rect7199" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="723"
+     y2="723"
+     x1="459"
+     x2="394"
+     id="line7201" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="591"
+     y2="723"
+     x1="637"
+     x2="459"
+     id="line7203" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="591"
+     y2="591"
+     x1="696"
+     x2="637"
+     id="line7205" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="695"
+     y2="1169"
+     x1="643"
+     x2="420"
+     id="line7207" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1169"
+     y2="1169"
+     x1="420"
+     x2="375"
+     id="line7209" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="695"
+     y2="695"
+     x1="696"
+     x2="643"
+     id="line7211" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="797"
+     y2="1133"
+     x1="653"
+     x2="653"
+     id="line7213" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="798"
+     y2="797"
+     x1="696"
+     x2="653"
+     id="line7215" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="949"
+     y2="1109"
+     x1="922"
+     x2="1137"
+     id="line7217" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1109"
+     y2="1152"
+     x1="1137"
+     x2="1137"
+     id="line7219" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="902"
+     y2="949"
+     x1="922"
+     x2="922"
+     id="line7221" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="432"
+     y2="432"
+     x1="1296"
+     x2="1380"
+     id="line7223" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="591"
+     y2="432"
+     x1="1223"
+     x2="1296"
+     id="line7225" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="591"
+     y2="591"
+     x1="1148"
+     x2="1223"
+     id="line7227" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="695"
+     y2="862"
+     x1="1210"
+     x2="1675"
+     id="line7229" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="862"
+     y2="862"
+     x1="1675"
+     x2="1754"
+     id="line7231" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="695"
+     y2="695"
+     x1="1148"
+     x2="1210"
+     id="line7233" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="862"
+     y2="862"
+     x1="2146"
+     x2="2089"
+     id="line7235" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1113"
+     y2="862"
+     x1="2273"
+     x2="2146"
+     id="line7237" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1175"
+     y2="1113"
+     x1="2273"
+     x2="2273"
+     id="line7239" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="488"
+     y2="427"
+     x1="922"
+     x2="922"
+     id="line7241" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="798"
+     y2="1116"
+     x1="1201"
+     x2="1307"
+     id="line7243" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1116"
+     y2="1116"
+     x1="1307"
+     x2="1371"
+     id="line7245" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="798"
+     y2="798"
+     x1="1148"
+     x2="1201"
+     id="line7247" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1350"
+     y2="1387"
+     x1="1519"
+     x2="1518"
+     id="line7249" />
+  <polygon
+     points="696 591 686 587 674 591 686 595"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,0,0);"
+     id="polygon7251" />
+  <polygon
+     points="696 695 686 691 674 695 686 699"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,0,0);"
+     id="polygon7253" />
+  <polygon
+     points="696 798 686 794 674 797 686 802"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,0,0);"
+     id="polygon7255" />
+  <polygon
+     points="922 902 918 912 922 924 926 912"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,0,0);"
+     id="polygon7257" />
+  <polygon
+     points="1148 591 1158 595 1170 591 1158 587"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,0,0);"
+     id="polygon7259" />
+  <polygon
+     points="1148 695 1158 699 1170 695 1158 691"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,0,0);"
+     id="polygon7261" />
+  <polygon
+     points="2273 1175 2277 1165 2273 1153 2269 1165"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,0,0);"
+     id="polygon7263" />
+  <polygon
+     points="922 488 926 478 922 466 918 478"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,0,0);"
+     id="polygon7265" />
+  <polygon
+     points="1148 798 1158 802 1170 798 1158 794"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,0,0);"
+     id="polygon7267" />
+  <polygon
+     points="1519 1350 1515 1360 1518 1372 1523 1360"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,0,0);"
+     id="polygon7269" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="591"
+     y2="587"
+     x1="696"
+     x2="686"
+     id="line7271" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="591"
+     y2="595"
+     x1="674"
+     x2="686"
+     id="line7273" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="587"
+     y2="591"
+     x1="686"
+     x2="674"
+     id="line7275" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="595"
+     y2="591"
+     x1="686"
+     x2="696"
+     id="line7277" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="695"
+     y2="691"
+     x1="696"
+     x2="686"
+     id="line7279" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="695"
+     y2="699"
+     x1="674"
+     x2="686"
+     id="line7281" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="691"
+     y2="695"
+     x1="686"
+     x2="674"
+     id="line7283" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="699"
+     y2="695"
+     x1="686"
+     x2="696"
+     id="line7285" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="798"
+     y2="794"
+     x1="696"
+     x2="686"
+     id="line7287" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="797"
+     y2="802"
+     x1="674"
+     x2="686"
+     id="line7289" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="794"
+     y2="797"
+     x1="686"
+     x2="674"
+     id="line7291" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="802"
+     y2="798"
+     x1="686"
+     x2="696"
+     id="line7293" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="902"
+     y2="912"
+     x1="922"
+     x2="918"
+     id="line7295" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="924"
+     y2="912"
+     x1="922"
+     x2="926"
+     id="line7297" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="912"
+     y2="924"
+     x1="918"
+     x2="922"
+     id="line7299" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="912"
+     y2="902"
+     x1="926"
+     x2="922"
+     id="line7301" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="591"
+     y2="595"
+     x1="1148"
+     x2="1158"
+     id="line7303" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="591"
+     y2="587"
+     x1="1170"
+     x2="1158"
+     id="line7305" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="595"
+     y2="591"
+     x1="1158"
+     x2="1170"
+     id="line7307" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="587"
+     y2="591"
+     x1="1158"
+     x2="1148"
+     id="line7309" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="695"
+     y2="699"
+     x1="1148"
+     x2="1158"
+     id="line7311" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="695"
+     y2="691"
+     x1="1170"
+     x2="1158"
+     id="line7313" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="699"
+     y2="695"
+     x1="1158"
+     x2="1170"
+     id="line7315" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="691"
+     y2="695"
+     x1="1158"
+     x2="1148"
+     id="line7317" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1175"
+     y2="1165"
+     x1="2273"
+     x2="2277"
+     id="line7319" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1153"
+     y2="1165"
+     x1="2273"
+     x2="2269"
+     id="line7321" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1165"
+     y2="1153"
+     x1="2277"
+     x2="2273"
+     id="line7323" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1165"
+     y2="1175"
+     x1="2269"
+     x2="2273"
+     id="line7325" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="488"
+     y2="478"
+     x1="922"
+     x2="926"
+     id="line7327" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="466"
+     y2="478"
+     x1="922"
+     x2="918"
+     id="line7329" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="478"
+     y2="466"
+     x1="926"
+     x2="922"
+     id="line7331" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="478"
+     y2="488"
+     x1="918"
+     x2="922"
+     id="line7333" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="798"
+     y2="802"
+     x1="1148"
+     x2="1158"
+     id="line7335" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="798"
+     y2="794"
+     x1="1170"
+     x2="1158"
+     id="line7337" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="802"
+     y2="798"
+     x1="1158"
+     x2="1170"
+     id="line7339" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="794"
+     y2="798"
+     x1="1158"
+     x2="1148"
+     id="line7341" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1350"
+     y2="1360"
+     x1="1519"
+     x2="1515"
+     id="line7343" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1372"
+     y2="1360"
+     x1="1518"
+     x2="1523"
+     id="line7345" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1360"
+     y2="1372"
+     x1="1515"
+     x2="1518"
+     id="line7347" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1360"
+     y2="1350"
+     x1="1523"
+     x2="1519"
+     id="line7349" />
+  <rect
+     width="50"
+     x="1761"
+     y="525"
+     height="18"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7351" />
+  <rect
+     width="93"
+     x="1761"
+     y="542"
+     height="28"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7353" />
+  <text
+     x="1807"
+     y="563"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7355">NearNeural</text>
+  <rect
+     width="50"
+     x="1761"
+     y="432"
+     height="18"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7357" />
+  <rect
+     width="75"
+     x="1761"
+     y="449"
+     height="28"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7359" />
+  <text
+     x="1798"
+     y="470"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7361">NearOCR</text>
+  <rect
+     width="206"
+     x="966"
+     y="168"
+     height="90"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7363" />
+  <text
+     x="1069"
+     y="183"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7365">AboutFrame</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="186"
+     y2="186"
+     x1="966"
+     x2="1171"
+     id="line7367" />
+  <text
+     x="971"
+     y="201"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7369">- LOGO_PATH : String</text>
+  <text
+     x="971"
+     y="219"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7371">- title : JLabel</text>
+  <text
+     x="971"
+     y="237"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7373">- container : JPanel</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="240"
+     y2="240"
+     x1="966"
+     x2="1171"
+     id="line7375" />
+  <text
+     x="971"
+     y="255"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7377">+ AboutFrame(owner : Frame)</text>
+  <rect
+     width="452"
+     x="696"
+     y="488"
+     height="414"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7379" />
+  <text
+     x="922"
+     y="503"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7381">OCRSwing</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="506"
+     y2="506"
+     x1="696"
+     x2="1147"
+     id="line7383" />
+  <text
+     x="701"
+     y="521"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7385">- OCR : NearOCR.OCRManager</text>
+  <text
+     x="701"
+     y="539"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7387">- ICON_PATH : String</text>
+  <text
+     x="701"
+     y="557"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7389">- slicePanel : SlicePanel</text>
+  <text
+     x="701"
+     y="575"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7391">- resizePanel : ResizePanel</text>
+  <text
+     x="701"
+     y="593"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7393">- netPanel : NetPanel</text>
+  <text
+     x="701"
+     y="611"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7395">- symbolPanel : SymbolPanel</text>
+  <text
+     x="701"
+     y="629"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7397">- trainPanel : TrainPanel</text>
+  <text
+     x="701"
+     y="647"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7399">- runPanel : RunPanel</text>
+  <text
+     x="701"
+     y="665"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7401">- menuBar : JMenuBar</text>
+  <text
+     x="701"
+     y="683"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7403">- consolePanel : ConsolePanel</text>
+  <text
+     x="701"
+     y="701"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7405">- resultsPanel : ResultsPanel</text>
+  <text
+     x="701"
+     y="719"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7407">- tabs : JTabbedPane</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="722"
+     y2="722"
+     x1="696"
+     x2="1147"
+     id="line7409" />
+  <text
+     x="701"
+     y="737"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7411">+ OCRSwing()</text>
+  <text
+     x="701"
+     y="755"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7413">- buildMenuItem(label : String, actionCommand : String) : JMenuItem</text>
+  <text
+     x="701"
+     y="773"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7415">- buildMenu() : JMenuBar</text>
+  <text
+     x="701"
+     y="791"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7417">- loadDoc()</text>
+  <text
+     x="701"
+     y="809"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7419">- loadNet()</text>
+  <text
+     x="701"
+     y="827"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7421">- saveSymbols()</text>
+  <text
+     x="701"
+     y="845"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7423">- loadSymbols()</text>
+  <text
+     x="701"
+     y="863"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7425">+ actionPerformed(Ae : ActionEvent)</text>
+  <text
+     x="701"
+     y="881"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7427">- quit()</text>
+  <text
+     x="701"
+     y="899"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7429">+ main(args : String)</text>
+  <rect
+     width="344"
+     x="50"
+     y="543"
+     height="360"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7431" />
+  <text
+     x="222"
+     y="558"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7433">ResizePanel</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="561"
+     y2="561"
+     x1="50"
+     x2="393"
+     id="line7435" />
+  <text
+     x="55"
+     y="576"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7437">- documentView : JPanel</text>
+  <text
+     x="55"
+     y="594"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7439">- documentScroller : JScrollPane</text>
+  <text
+     x="55"
+     y="612"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7441">- sizeSelector : JComboBox</text>
+  <text
+     x="55"
+     y="630"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7443">- analyse : JButton</text>
+  <text
+     x="55"
+     y="648"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7445">- picker : JButton</text>
+  <text
+     x="55"
+     y="666"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7447">- bgColour : Color</text>
+  <text
+     x="55"
+     y="684"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7449">- OCR : NearOCR.OCRManager</text>
+  <text
+     x="55"
+     y="702"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7451">- sizes : String[]</text>
+  <text
+     x="55"
+     y="720"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7453">- widths : Vector&lt;Integer&gt;</text>
+  <text
+     x="55"
+     y="738"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7455">- heights : Vector&lt;Integer&gt;</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="741"
+     y2="741"
+     x1="50"
+     x2="393"
+     id="line7457" />
+  <text
+     x="55"
+     y="756"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7459">+ ResizePanel(p_OCR : NearOCR.OCRManager)</text>
+  <text
+     x="55"
+     y="774"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7461">+ calculateSizes()</text>
+  <text
+     x="55"
+     y="792"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7463">- repopulateBox()</text>
+  <text
+     x="55"
+     y="810"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7465">- chooseColour()</text>
+  <text
+     x="55"
+     y="828"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7467">- resizeImages(index : int)</text>
+  <text
+     x="55"
+     y="846"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7469">+ resizeImages()</text>
+  <text
+     x="55"
+     y="864"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7471">+ drawDocument()</text>
+  <text
+     x="55"
+     y="882"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7473">+ adjustmentValueChanged(Ae : AdjustmentEvent)</text>
+  <text
+     x="55"
+     y="900"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7475">+ actionPerformed(Ae : ActionEvent)</text>
+  <rect
+     width="322"
+     x="53"
+     y="1079"
+     height="180"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7477" />
+  <text
+     x="214"
+     y="1094"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7479">ResultsPanel</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1097"
+     y2="1097"
+     x1="53"
+     x2="374"
+     id="line7481" />
+  <text
+     x="58"
+     y="1112"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7483">- OCR : NearOCR.OCRManager</text>
+  <text
+     x="58"
+     y="1130"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7485">- results : JTextArea</text>
+  <text
+     x="58"
+     y="1148"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7487">- resultsPanel : JScrollPane</text>
+  <text
+     x="58"
+     y="1166"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7489">- save : JButton</text>
+  <text
+     x="58"
+     y="1184"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7491">- refresh : JButton</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1187"
+     y2="1187"
+     x1="53"
+     x2="374"
+     id="line7493" />
+  <text
+     x="58"
+     y="1202"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7495">+ ResultsPanel(p_OCR : NearOCR.OCRManager)</text>
+  <text
+     x="58"
+     y="1220"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7497">+ save()</text>
+  <text
+     x="58"
+     y="1238"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7499">+ redraw()</text>
+  <text
+     x="58"
+     y="1256"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7501">+ actionPerformed(Ae : ActionEvent)</text>
+  <rect
+     width="587"
+     x="51"
+     y="352"
+     height="90"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7503" />
+  <text
+     x="344"
+     y="367"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7505">RunDispatcher</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="370"
+     y2="370"
+     x1="51"
+     x2="637"
+     id="line7507" />
+  <text
+     x="56"
+     y="385"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7509">- listener : NearOCR.ProgressListener</text>
+  <text
+     x="56"
+     y="403"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7511">- OCR : NearOCR.OCRManager</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="406"
+     y2="406"
+     x1="51"
+     x2="637"
+     id="line7513" />
+  <text
+     x="56"
+     y="421"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7515">+ RunDispatcher(p_OCR : NearOCR.OCRManager, p_listener : NearOCR.ProgressListener)</text>
+  <text
+     x="56"
+     y="439"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7517">+ run()</text>
+  <rect
+     width="335"
+     x="486"
+     y="1133"
+     height="216"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7519" />
+  <text
+     x="653"
+     y="1148"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7521">RunPanel</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1151"
+     y2="1151"
+     x1="486"
+     x2="820"
+     id="line7523" />
+  <text
+     x="491"
+     y="1166"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7525">- OCR : NearOCR.OCRManager</text>
+  <text
+     x="491"
+     y="1184"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7527">- progress : JProgressBar</text>
+  <text
+     x="491"
+     y="1202"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7529">- run : JButton</text>
+  <text
+     x="491"
+     y="1220"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7531">- clear : JButton</text>
+  <text
+     x="491"
+     y="1238"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7533">- log : JTextArea</text>
+  <text
+     x="491"
+     y="1256"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7535">- logPanel : JScrollPane</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1259"
+     y2="1259"
+     x1="486"
+     x2="820"
+     id="line7537" />
+  <text
+     x="491"
+     y="1274"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7539">+ RunPanel(p_OCR : NearOCR.OCRManager)</text>
+  <text
+     x="491"
+     y="1292"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7541">+ actionPerformed(Ae : ActionEvent)</text>
+  <text
+     x="491"
+     y="1310"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7543">+ valueChanged(progress : double, limit : double)</text>
+  <text
+     x="491"
+     y="1328"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7545">+ eventOccurred(action : String)</text>
+  <text
+     x="491"
+     y="1346"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7547">+ errorOccurred(error : String)</text>
+  <rect
+     width="344"
+     x="965"
+     y="1152"
+     height="198"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7549" />
+  <text
+     x="1137"
+     y="1167"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7551">SlicePanel</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1170"
+     y2="1170"
+     x1="965"
+     x2="1308"
+     id="line7553" />
+  <text
+     x="970"
+     y="1185"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7555">- documentView : JPanel</text>
+  <text
+     x="970"
+     y="1203"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7557">- documentScroller : JScrollPane</text>
+  <text
+     x="970"
+     y="1221"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7559">- thresholdX : JSlider</text>
+  <text
+     x="970"
+     y="1239"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7561">- thresholdY : JSlider</text>
+  <text
+     x="970"
+     y="1257"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7563">~ OCR : NearOCR.OCRManager</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1260"
+     y2="1260"
+     x1="965"
+     x2="1308"
+     id="line7565" />
+  <text
+     x="970"
+     y="1275"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7567">+ SlicePanel(p_OCR : NearOCR.OCRManager)</text>
+  <text
+     x="970"
+     y="1293"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7569">+ drawDocument()</text>
+  <text
+     x="970"
+     y="1311"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7571">+ adjustmentValueChanged(Ae : AdjustmentEvent)</text>
+  <text
+     x="970"
+     y="1329"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7573">+ stateChanged(Ce : ChangeEvent)</text>
+  <text
+     x="970"
+     y="1347"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7575">+ slice()</text>
+  <rect
+     width="853"
+     x="1753"
+     y="260"
+     height="72"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7577" />
+  <text
+     x="2179"
+     y="275"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7579">SymbolCell</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="278"
+     y2="278"
+     x1="1753"
+     x2="2605"
+     id="line7581" />
+  <text
+     x="1758"
+     y="293"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7583">- val : JLabel</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="296"
+     y2="296"
+     x1="1753"
+     x2="2605"
+     id="line7585" />
+  <text
+     x="1758"
+     y="311"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7587">+ SymbolCell()</text>
+  <text
+     x="1758"
+     y="329"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7589">+ getListCellRendererComponent(list : JList, value : Object, index : int, isSelected : boolean, CellHasFocus : boolean) : Component</text>
+  <rect
+     width="205"
+     x="769"
+     y="1413"
+     height="81"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7591" />
+  <text
+     x="871"
+     y="1428"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7593">SymbolFileFilter</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1431"
+     y2="1431"
+     x1="769"
+     x2="973"
+     id="line7595" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1440"
+     y2="1440"
+     x1="769"
+     x2="973"
+     id="line7597" />
+  <text
+     x="774"
+     y="1455"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7599">+ accept(f : File) : boolean</text>
+  <text
+     x="774"
+     y="1473"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7601">- getExtension(f : File) : String</text>
+  <text
+     x="774"
+     y="1491"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7603">+ getDescription() : String</text>
+  <rect
+     width="335"
+     x="1380"
+     y="126"
+     height="612"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7605" />
+  <text
+     x="1547"
+     y="141"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7607">SymbolPanel</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="144"
+     y2="144"
+     x1="1380"
+     x2="1714"
+     id="line7609" />
+  <text
+     x="1385"
+     y="159"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7611">- OCR : NearOCR.OCRManager</text>
+  <text
+     x="1385"
+     y="177"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7613">- progress : JProgressBar</text>
+  <text
+     x="1385"
+     y="195"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7615">- symbolList : JList</text>
+  <text
+     x="1385"
+     y="213"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7617">- symbolPanel : JScrollPane</text>
+  <text
+     x="1385"
+     y="231"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7619">- neuronList : JList</text>
+  <text
+     x="1385"
+     y="249"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7621">- neuronPanel : JScrollPane</text>
+  <text
+     x="1385"
+     y="267"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7623">- symbols : Symbol[]</text>
+  <text
+     x="1385"
+     y="285"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7625">- img : JPanel</text>
+  <text
+     x="1385"
+     y="303"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7627">- add : JButton</text>
+  <text
+     x="1385"
+     y="321"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7629">- remove : JButton</text>
+  <text
+     x="1385"
+     y="339"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7631">- value : JTextField</text>
+  <text
+     x="1385"
+     y="357"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7633">- apply : JButton</text>
+  <text
+     x="1385"
+     y="375"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7635">- analyse : JButton</text>
+  <text
+     x="1385"
+     y="393"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7637">- reset : JButton</text>
+  <text
+     x="1385"
+     y="411"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7639">- symbolEditor : JPanel</text>
+  <text
+     x="1385"
+     y="429"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7641">- weightEditor : JPanel</text>
+  <text
+     x="1385"
+     y="447"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7643">- weight : JSpinner</text>
+  <text
+     x="1385"
+     y="465"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7645">- target : JSpinner</text>
+  <text
+     x="1385"
+     y="483"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7647">- weightLabel : JLabel</text>
+  <text
+     x="1385"
+     y="501"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7649">- targetLabel : JLabel</text>
+  <text
+     x="1385"
+     y="519"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7651">- applyWeight : JButton</text>
+  <text
+     x="1385"
+     y="537"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7653">- refreshWeight : JButton</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="540"
+     y2="540"
+     x1="1380"
+     x2="1714"
+     id="line7655" />
+  <text
+     x="1385"
+     y="555"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7657">+ SymbolPanel(p_OCR : NearOCR.OCRManager)</text>
+  <text
+     x="1385"
+     y="573"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7659">+ repopulateSymbolList()</text>
+  <text
+     x="1385"
+     y="591"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7661">+ resetWeights()</text>
+  <text
+     x="1385"
+     y="609"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7663">+ repopulateOutputsList()</text>
+  <text
+     x="1385"
+     y="627"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7665">- addSymbol()</text>
+  <text
+     x="1385"
+     y="645"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7667">- resetWeightAndTarget()</text>
+  <text
+     x="1385"
+     y="663"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7669">+ actionPerformed(Ae : ActionEvent)</text>
+  <text
+     x="1385"
+     y="681"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7671">+ valueChanged(LSe : ListSelectionEvent)</text>
+  <text
+     x="1385"
+     y="699"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7673">+ valueChanged(progress : double, limit : double)</text>
+  <text
+     x="1385"
+     y="717"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7675">+ eventOccurred(action : String)</text>
+  <text
+     x="1385"
+     y="735"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7677">+ errorOccurred(error : String)</text>
+  <rect
+     width="335"
+     x="1754"
+     y="601"
+     height="522"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7679" />
+  <text
+     x="1921"
+     y="616"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7681">TrainPanel</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="619"
+     y2="619"
+     x1="1754"
+     x2="2088"
+     id="line7683" />
+  <text
+     x="1759"
+     y="634"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7685">- OCR : NearOCR.OCRManager</text>
+  <text
+     x="1759"
+     y="652"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7687">- progress : JProgressBar</text>
+  <text
+     x="1759"
+     y="670"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7689">- netList : JList</text>
+  <text
+     x="1759"
+     y="688"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7691">- listPanel : JScrollPane</text>
+  <text
+     x="1759"
+     y="706"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7693">- log : JTextArea</text>
+  <text
+     x="1759"
+     y="724"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7695">- logPanel : JScrollPane</text>
+  <text
+     x="1759"
+     y="742"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7697">- learningRate : JSpinner</text>
+  <text
+     x="1759"
+     y="760"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7699">- learningRateLabel : JLabel</text>
+  <text
+     x="1759"
+     y="778"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7701">- cycles : JSpinner</text>
+  <text
+     x="1759"
+     y="796"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7703">- cyclesLabel : JLabel</text>
+  <text
+     x="1759"
+     y="814"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7705">- loops : JSpinner</text>
+  <text
+     x="1759"
+     y="832"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7707">- loopsLabel : JLabel</text>
+  <text
+     x="1759"
+     y="850"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7709">- MSEMin : JSpinner</text>
+  <text
+     x="1759"
+     y="868"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7711">- MSEMinLabel : JLabel</text>
+  <text
+     x="1759"
+     y="886"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7713">- applyLR : JButton</text>
+  <text
+     x="1759"
+     y="904"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7715">- resetLR : JButton</text>
+  <text
+     x="1759"
+     y="922"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7717">- train : JButton</text>
+  <text
+     x="1759"
+     y="940"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7719">- clear : JButton</text>
+  <text
+     x="1759"
+     y="958"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7721">- trainingStats : JPanel</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="961"
+     y2="961"
+     x1="1754"
+     x2="2088"
+     id="line7723" />
+  <text
+     x="1759"
+     y="976"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7725">+ TrainPanel(p_OCR : NearOCR.OCRManager)</text>
+  <text
+     x="1759"
+     y="994"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7727">+ repopulateList()</text>
+  <text
+     x="1759"
+     y="1012"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7729">+ train()</text>
+  <text
+     x="1759"
+     y="1030"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7731">+ actionPerformed(Ae : ActionEvent)</text>
+  <text
+     x="1759"
+     y="1048"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7733">- resetLR()</text>
+  <text
+     x="1759"
+     y="1066"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7735">+ valueChanged(LSe : ListSelectionEvent)</text>
+  <text
+     x="1759"
+     y="1084"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7737">+ valueChanged(progress : double, limit : double)</text>
+  <text
+     x="1759"
+     y="1102"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7739">+ eventOccurred(action : String)</text>
+  <text
+     x="1759"
+     y="1120"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7741">+ errorOccurred(error : String)</text>
+  <rect
+     width="1035"
+     x="1756"
+     y="1175"
+     height="180"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7743" />
+  <text
+     x="2273"
+     y="1190"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7745">TrainingDispatcher</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1193"
+     y2="1193"
+     x1="1756"
+     x2="2790"
+     id="line7747" />
+  <text
+     x="1761"
+     y="1208"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7749">- net : NearNeural.NeuralNet</text>
+  <text
+     x="1761"
+     y="1226"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7751">- symbols : Symbol[]</text>
+  <text
+     x="1761"
+     y="1244"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7753">- loops : int</text>
+  <text
+     x="1761"
+     y="1262"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7755">- cycles : int</text>
+  <text
+     x="1761"
+     y="1280"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7757">- parent : TrainPanel</text>
+  <text
+     x="1761"
+     y="1298"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7759">- MSEMin : double</text>
+  <text
+     x="1761"
+     y="1316"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7761">- offset : int</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1319"
+     y2="1319"
+     x1="1756"
+     x2="2790"
+     id="line7763" />
+  <text
+     x="1761"
+     y="1334"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7765">+ TrainingDispatcher(p_net : NearNeural.NeuralNet, p_symbols : Symbol[], p_loops : int, p_cycles : int, p_parent : TrainPanel, p_MSEMin : double, p_offset : int)</text>
+  <text
+     x="1761"
+     y="1352"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7767">+ run()</text>
+  <rect
+     width="663"
+     x="56"
+     y="1414"
+     height="90"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7769" />
+  <text
+     x="387"
+     y="1429"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7771">WeightAnalysisDispatcher</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1432"
+     y2="1432"
+     x1="56"
+     x2="718"
+     id="line7773" />
+  <text
+     x="61"
+     y="1447"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7775">- listener : NearOCR.ProgressListener</text>
+  <text
+     x="61"
+     y="1465"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7777">- OCR : NearOCR.OCRManager</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1468"
+     y2="1468"
+     x1="56"
+     x2="718"
+     id="line7779" />
+  <text
+     x="61"
+     y="1483"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7781">+ WeightAnalysisDispatcher(p_OCR : NearOCR.OCRManager, p_listener : NearOCR.ProgressListener)</text>
+  <text
+     x="61"
+     y="1501"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7783">+ run()</text>
+  <rect
+     width="263"
+     x="791"
+     y="337"
+     height="90"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7785" />
+  <text
+     x="922"
+     y="352"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7787">ConsolePanel</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="355"
+     y2="355"
+     x1="791"
+     x2="1053"
+     id="line7789" />
+  <text
+     x="796"
+     y="370"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7791">- log : JTextArea</text>
+  <text
+     x="796"
+     y="388"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7793">- logPanel : JScrollPane</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="391"
+     y2="391"
+     x1="791"
+     x2="1053"
+     id="line7795" />
+  <text
+     x="796"
+     y="406"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7797">+ ConsolePanel()</text>
+  <text
+     x="796"
+     y="424"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7799">+ messageReceived(message : String)</text>
+  <rect
+     width="205"
+     x="517"
+     y="1527"
+     height="81"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7801" />
+  <text
+     x="619"
+     y="1542"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7803">ImageFileFilter</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1545"
+     y2="1545"
+     x1="517"
+     x2="721"
+     id="line7805" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1554"
+     y2="1554"
+     x1="517"
+     x2="721"
+     id="line7807" />
+  <text
+     x="522"
+     y="1569"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7809">+ accept(f : File) : boolean</text>
+  <text
+     x="522"
+     y="1587"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7811">- getExtension(f : File) : String</text>
+  <text
+     x="522"
+     y="1605"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7813">+ getDescription() : String</text>
+  <rect
+     width="853"
+     x="51"
+     y="139"
+     height="162"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7815" />
+  <text
+     x="477"
+     y="154"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7817">NetCell</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="157"
+     y2="157"
+     x1="51"
+     x2="903"
+     id="line7819" />
+  <text
+     x="56"
+     y="172"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7821">- neurons : JLabel</text>
+  <text
+     x="56"
+     y="190"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7823">- edges : JLabel</text>
+  <text
+     x="56"
+     y="208"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7825">- outputs : JLabel</text>
+  <text
+     x="56"
+     y="226"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7827">- inputs : JLabel</text>
+  <text
+     x="56"
+     y="244"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7829">- learningRate : JLabel</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="247"
+     y2="247"
+     x1="51"
+     x2="903"
+     id="line7831" />
+  <text
+     x="56"
+     y="262"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7833">+ NetCell()</text>
+  <text
+     x="56"
+     y="280"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7835">- redrawStats(p_net : NearNeural.NeuralNet)</text>
+  <text
+     x="56"
+     y="298"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7837">+ getListCellRendererComponent(list : JList, value : Object, index : int, isSelected : boolean, CellHasFocus : boolean) : Component</text>
+  <rect
+     width="205"
+     x="770"
+     y="1530"
+     height="81"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7839" />
+  <text
+     x="872"
+     y="1545"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7841">NetFileFilter</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1548"
+     y2="1548"
+     x1="770"
+     x2="974"
+     id="line7843" />
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1557"
+     y2="1557"
+     x1="770"
+     x2="974"
+     id="line7845" />
+  <text
+     x="775"
+     y="1572"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7847">+ accept(f : File) : boolean</text>
+  <text
+     x="775"
+     y="1590"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7849">- getExtension(f : File) : String</text>
+  <text
+     x="775"
+     y="1608"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7851">+ getDescription() : String</text>
+  <rect
+     width="297"
+     x="1371"
+     y="882"
+     height="468"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7853" />
+  <text
+     x="1519"
+     y="897"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7855">NetPanel</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="900"
+     y2="900"
+     x1="1371"
+     x2="1667"
+     id="line7857" />
+  <text
+     x="1376"
+     y="915"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7859">- OCR : NearOCR.OCRManager</text>
+  <text
+     x="1376"
+     y="933"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7861">- netList : JList</text>
+  <text
+     x="1376"
+     y="951"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7863">- listPanel : JScrollPane</text>
+  <text
+     x="1376"
+     y="969"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7865">- pruneVal : JSpinner</text>
+  <text
+     x="1376"
+     y="987"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7867">- prune : JButton</text>
+  <text
+     x="1376"
+     y="1005"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7869">- netVis : NeuralVisualisation</text>
+  <text
+     x="1376"
+     y="1023"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7871">- globalInfo : JPanel</text>
+  <text
+     x="1376"
+     y="1041"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7873">- globalInputNeuronCount : JLabel</text>
+  <text
+     x="1376"
+     y="1059"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7875">- globalOutputNeuronCount : JLabel</text>
+  <text
+     x="1376"
+     y="1077"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7877">- globalNeuronCount : JLabel</text>
+  <text
+     x="1376"
+     y="1095"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7879">- globalEdgeCount : JLabel</text>
+  <text
+     x="1376"
+     y="1113"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7881">- redraw : JButton</text>
+  <text
+     x="1376"
+     y="1131"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7883">- refresh : JButton</text>
+  <text
+     x="1376"
+     y="1149"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7885">- up : JButton</text>
+  <text
+     x="1376"
+     y="1167"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7887">- down : JButton</text>
+  <text
+     x="1376"
+     y="1185"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7889">- remove : JButton</text>
+  <text
+     x="1376"
+     y="1203"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7891">- save : JButton</text>
+  <text
+     x="1376"
+     y="1221"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7893">- gbc : GridBagConstraints</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1224"
+     y2="1224"
+     x1="1371"
+     x2="1667"
+     id="line7895" />
+  <text
+     x="1376"
+     y="1239"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7897">+ NetPanel(p_OCR : NearOCR.OCRManager)</text>
+  <text
+     x="1376"
+     y="1257"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7899">+ drawGlobalInfo()</text>
+  <text
+     x="1376"
+     y="1275"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7901">- saveNet()</text>
+  <text
+     x="1376"
+     y="1293"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7903">+ drawNetInfo()</text>
+  <text
+     x="1376"
+     y="1311"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7905">+ repopulateList()</text>
+  <text
+     x="1376"
+     y="1329"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7907">+ valueChanged(LSe : ListSelectionEvent)</text>
+  <text
+     x="1376"
+     y="1347"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7909">+ actionPerformed(Ae : ActionEvent)</text>
+  <rect
+     width="533"
+     x="1252"
+     y="1387"
+     height="270"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7911" />
+  <text
+     x="1518"
+     y="1402"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7913">NeuralVisualisation</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1405"
+     y2="1405"
+     x1="1252"
+     x2="1784"
+     id="line7915" />
+  <text
+     x="1257"
+     y="1420"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7917">- NEURON_SIZE : double</text>
+  <text
+     x="1257"
+     y="1438"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7919">~ net : NearNeural.NeuralNet</text>
+  <text
+     x="1257"
+     y="1456"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7921">~ width : int</text>
+  <text
+     x="1257"
+     y="1474"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7923">~ height : int</text>
+  <text
+     x="1257"
+     y="1492"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7925">- neurons[] : Ellipse2D.Double</text>
+  <text
+     x="1257"
+     y="1510"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7927">- realNeurons[] : NearNeural.Neuron</text>
+  <text
+     x="1257"
+     y="1528"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7929">~ edges : Vector&lt;Line2D.Double&gt;</text>
+  <text
+     x="1257"
+     y="1546"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7931">~ realEdges : Vector&lt;Edge&gt;</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1549"
+     y2="1549"
+     x1="1252"
+     x2="1784"
+     id="line7933" />
+  <text
+     x="1257"
+     y="1564"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7935">+ NeuralVisualisation(p_net : NearNeural.NeuralNet, p_width : int, p_height : int)</text>
+  <text
+     x="1257"
+     y="1582"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7937">- populateNeurons()</text>
+  <text
+     x="1257"
+     y="1600"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7939">- populateEdges()</text>
+  <text
+     x="1257"
+     y="1618"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7941">+ paint(g : Graphics)</text>
+  <text
+     x="1257"
+     y="1636"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7943">- renderText(p_text : String, g2d : Graphics2D, p_x : int, p_y : int)</text>
+  <text
+     x="1257"
+     y="1654"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7945">+ update()</text>
+  <rect
+     width="853"
+     x="1750"
+     y="127"
+     height="108"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7947" />
+  <text
+     x="2176"
+     y="142"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7949">NeuronCell</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="145"
+     y2="145"
+     x1="1750"
+     x2="2602"
+     id="line7951" />
+  <text
+     x="1755"
+     y="160"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7953">- index : JLabel</text>
+  <text
+     x="1755"
+     y="178"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7955">- target : JLabel</text>
+  <text
+     x="1755"
+     y="196"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7957">- weight : JLabel</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="199"
+     y2="199"
+     x1="1750"
+     x2="2602"
+     id="line7959" />
+  <text
+     x="1755"
+     y="214"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7961">+ NeuronCell()</text>
+  <text
+     x="1755"
+     y="232"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7963">+ getListCellRendererComponent(list : JList, value : Object, index : int, isSelected : boolean, CellHasFocus : boolean) : Component</text>
+  <rect
+     width="428"
+     x="2170"
+     y="379"
+     height="378"
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect7965" />
+  <text
+     x="2384"
+     y="394"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text7967">NewNetFrame</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="397"
+     y2="397"
+     x1="2170"
+     x2="2597"
+     id="line7969" />
+  <text
+     x="2175"
+     y="412"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7971">- layerList : JList</text>
+  <text
+     x="2175"
+     y="430"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7973">- layerPanel : JScrollPane</text>
+  <text
+     x="2175"
+     y="448"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7975">- layers : Vector&lt;Integer&gt;</text>
+  <text
+     x="2175"
+     y="466"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7977">- numberOfNeurons : JSpinner</text>
+  <text
+     x="2175"
+     y="484"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7979">- learningRate : JSpinner</text>
+  <text
+     x="2175"
+     y="502"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7981">- createLayer : JButton</text>
+  <text
+     x="2175"
+     y="520"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7983">- removeLayer : JButton</text>
+  <text
+     x="2175"
+     y="538"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7985">- moveLayerUp : JButton</text>
+  <text
+     x="2175"
+     y="556"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7987">- moveLayerDown : JButton</text>
+  <text
+     x="2175"
+     y="574"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7989">- create : JButton</text>
+  <text
+     x="2175"
+     y="592"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7991">- save : JButton</text>
+  <text
+     x="2175"
+     y="610"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7993">- cancel : JButton</text>
+  <text
+     x="2175"
+     y="628"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7995">- OCR : NearOCR.OCRManager</text>
+  <line
+     transform="translate(-50,-126)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="631"
+     y2="631"
+     x1="2170"
+     x2="2597"
+     id="line7997" />
+  <text
+     x="2175"
+     y="646"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text7999">+ NewNetFrame(owner : Frame, p_OCR : NearOCR.OCRManager)</text>
+  <text
+     x="2175"
+     y="664"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8001">- createNet() : NearNeural.NeuralNet</text>
+  <text
+     x="2175"
+     y="682"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8003">- saveNet(net : NearNeural.NeuralNet)</text>
+  <text
+     x="2175"
+     y="700"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8005">+ createNewLayer()</text>
+  <text
+     x="2175"
+     y="718"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8007">+ removeLayer()</text>
+  <text
+     x="2175"
+     y="736"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8009">+ repopulateList()</text>
+  <text
+     x="2175"
+     y="754"
+     transform="translate(-50,-126)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8011">+ actionPerformed(Ae : ActionEvent)</text>
+  <text
+     x="443"
+     y="742"
+     transform="translate(-50,-126)"
+     style="fill:rgb(50,50,50);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8013">+resizePanel</text>
+  <text
+     x="426"
+     y="1188"
+     transform="translate(-50,-126)"
+     style="fill:rgb(50,50,50);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8015">+resultsPanel</text>
+  <text
+     x="619"
+     y="1126"
+     transform="translate(-50,-126)"
+     style="fill:rgb(50,50,50);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8017">+runPanel</text>
+  <text
+     x="1098"
+     y="1145"
+     transform="translate(-50,-126)"
+     style="fill:rgb(50,50,50);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8019">+slicePanel</text>
+  <text
+     x="1333"
+     y="451"
+     transform="translate(-50,-126)"
+     style="fill:rgb(50,50,50);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8021">+symbolPanel</text>
+  <text
+     x="1715"
+     y="881"
+     transform="translate(-50,-126)"
+     style="fill:rgb(50,50,50);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8023">+trainPanel</text>
+  <text
+     x="2121"
+     y="881"
+     transform="translate(-50,-126)"
+     style="fill:rgb(50,50,50);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8025">+parent</text>
+  <text
+     x="873"
+     y="446"
+     transform="translate(-50,-126)"
+     style="fill:rgb(50,50,50);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8027">+consolePanel</text>
+  <text
+     x="1337"
+     y="1135"
+     transform="translate(-50,-126)"
+     style="fill:rgb(50,50,50);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8029">+netPanel</text>
+  <text
+     x="1550"
+     y="1380"
+     transform="translate(-50,-126)"
+     style="fill:rgb(50,50,50);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8031">+netVis</text>
+</svg>

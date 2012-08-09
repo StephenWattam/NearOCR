@@ -1,0 +1,1653 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2020"
+   x="0"
+   y="0"
+   height="1497"
+   id="/home/extremetomato/Desktop/NearOCR"
+   sodipodi:version="0.32"
+   inkscape:version="0.45"
+   sodipodi:docname="NearOCR.svg"
+   sodipodi:docbase="/mnt/usb"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata10090">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10088" />
+  <sodipodi:namedview
+     inkscape:window-height="588"
+     inkscape:window-width="759"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.25183701"
+     inkscape:cx="1010"
+     inkscape:cy="748.5"
+     inkscape:window-x="1280"
+     inkscape:window-y="768"
+     inkscape:current-layer="/home/extremetomato/Desktop/NearOCR" />
+  <rect
+     width="2020"
+     x="75"
+     y="83"
+     height="1497"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,255,255);"
+     id="rect9609" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="950"
+     y2="797"
+     x1="907"
+     x2="1044"
+     id="line9611" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="875"
+     y2="797"
+     x1="1260"
+     x2="1141"
+     id="line9613" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="257"
+     y2="260"
+     x1="465"
+     x2="1293"
+     id="line9615" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="368"
+     y2="875"
+     x1="1415"
+     x2="1417"
+     id="line9617" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1127"
+     y2="1263"
+     x1="1339"
+     x2="1339"
+     id="line9619" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="431"
+     y2="431"
+     x1="465"
+     x2="660"
+     id="line9621" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="512"
+     y2="824"
+     x1="791"
+     x2="789"
+     id="line9623" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="605"
+     y2="756"
+     x1="270"
+     x2="271"
+     id="line9625" />
+  <polygon
+     points="1044 797 1032 801 1041 810 1044 797"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,255,255);"
+     id="polygon9627" />
+  <polygon
+     points="1141 797 1147 809 1154 798 1141 797"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,255,255);"
+     id="polygon9629" />
+  <polygon
+     points="465 257 475 261 487 257 475 253"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,0,0);"
+     id="polygon9631" />
+  <polygon
+     points="1415 368 1411 378 1415 390 1419 378"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,0,0);"
+     id="polygon9633" />
+  <polygon
+     points="1339 1127 1335 1137 1339 1149 1343 1137"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,255,255);"
+     id="polygon9635" />
+  <polygon
+     points="465 431 475 435 487 431 475 427"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,0,0);"
+     id="polygon9637" />
+  <polygon
+     points="791 512 787 522 791 534 795 522"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,0,0);"
+     id="polygon9639" />
+  <polygon
+     points="270 605 266 615 270 627 274 615"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,0,0);"
+     id="polygon9641" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="801"
+     y2="810"
+     x1="1032"
+     x2="1041"
+     id="line9643" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="797"
+     y2="810"
+     x1="1044"
+     x2="1041"
+     id="line9645" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="797"
+     y2="809"
+     x1="1141"
+     x2="1147"
+     id="line9647" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="809"
+     y2="798"
+     x1="1147"
+     x2="1154"
+     id="line9649" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="797"
+     y2="798"
+     x1="1141"
+     x2="1154"
+     id="line9651" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="257"
+     y2="261"
+     x1="465"
+     x2="475"
+     id="line9653" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="257"
+     y2="253"
+     x1="487"
+     x2="475"
+     id="line9655" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="261"
+     y2="257"
+     x1="475"
+     x2="487"
+     id="line9657" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="253"
+     y2="257"
+     x1="475"
+     x2="465"
+     id="line9659" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="368"
+     y2="378"
+     x1="1415"
+     x2="1411"
+     id="line9661" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="390"
+     y2="378"
+     x1="1415"
+     x2="1419"
+     id="line9663" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="378"
+     y2="390"
+     x1="1411"
+     x2="1415"
+     id="line9665" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="378"
+     y2="368"
+     x1="1419"
+     x2="1415"
+     id="line9667" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1127"
+     y2="1137"
+     x1="1339"
+     x2="1335"
+     id="line9669" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1137"
+     y2="1149"
+     x1="1335"
+     x2="1339"
+     id="line9671" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1149"
+     y2="1137"
+     x1="1339"
+     x2="1343"
+     id="line9673" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1137"
+     y2="1127"
+     x1="1343"
+     x2="1339"
+     id="line9675" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="431"
+     y2="435"
+     x1="465"
+     x2="475"
+     id="line9677" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="431"
+     y2="427"
+     x1="487"
+     x2="475"
+     id="line9679" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="435"
+     y2="431"
+     x1="475"
+     x2="487"
+     id="line9681" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="427"
+     y2="431"
+     x1="475"
+     x2="465"
+     id="line9683" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="512"
+     y2="522"
+     x1="791"
+     x2="787"
+     id="line9685" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="522"
+     y2="534"
+     x1="787"
+     x2="791"
+     id="line9687" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="522"
+     y2="512"
+     x1="795"
+     x2="791"
+     id="line9689" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="534"
+     y2="522"
+     x1="791"
+     x2="795"
+     id="line9691" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="605"
+     y2="615"
+     x1="270"
+     x2="266"
+     id="line9693" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="627"
+     y2="615"
+     x1="270"
+     x2="274"
+     id="line9695" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="615"
+     y2="627"
+     x1="266"
+     x2="270"
+     id="line9697" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="615"
+     y2="605"
+     x1="274"
+     x2="270"
+     id="line9699" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="797"
+     y2="801"
+     x1="1044"
+     x2="1032"
+     id="line9701" />
+  <text
+     x="1260"
+     y="279"
+     transform="translate(-75,-83)"
+     style="fill:rgb(50,50,50);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text9703">+symbols</text>
+  <rect
+     width="263"
+     x="660"
+     y="350"
+     height="162"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect9705" />
+  <text
+     x="791"
+     y="365"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text9707">Document</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="368"
+     y2="368"
+     x1="660"
+     x2="922"
+     id="line9709" />
+  <text
+     x="665"
+     y="383"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9711">- sourceImage : BufferedImage</text>
+  <text
+     x="665"
+     y="401"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9713">- letters : Vector&lt;Letter&gt;</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="404"
+     y2="404"
+     x1="660"
+     x2="922"
+     id="line9715" />
+  <text
+     x="665"
+     y="419"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9717">+ Document(p_image : BufferedImage)</text>
+  <text
+     x="665"
+     y="437"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9719">+ setImage(p_image : BufferedImage)</text>
+  <text
+     x="665"
+     y="455"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9721">+ getImage() : BufferedImage</text>
+  <text
+     x="665"
+     y="473"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9723">+ getLetters() : Letter[]</text>
+  <text
+     x="665"
+     y="491"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9725">+ addLetter(p_letter : Letter)</text>
+  <text
+     x="665"
+     y="509"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9727">+ clearLetters()</text>
+  <rect
+     width="390"
+     x="75"
+     y="83"
+     height="522"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect9729" />
+  <text
+     x="270"
+     y="98"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text9731">OCRManager</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="101"
+     y2="101"
+     x1="75"
+     x2="464"
+     id="line9733" />
+  <text
+     x="80"
+     y="116"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9735">- symbols : SymbolTable</text>
+  <text
+     x="80"
+     y="134"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9737">- symbolFile : File</text>
+  <text
+     x="80"
+     y="152"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9739">- doc : Document</text>
+  <text
+     x="80"
+     y="170"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9741">- nets : NetStack</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="173"
+     y2="173"
+     x1="75"
+     x2="464"
+     id="line9743" />
+  <text
+     x="80"
+     y="188"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9745">+ OCRManager()</text>
+  <text
+     x="80"
+     y="206"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9747">+ setSize(p_width : int, p_height : int)</text>
+  <text
+     x="80"
+     y="224"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9749">+ countOutput() : int</text>
+  <text
+     x="80"
+     y="242"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9751">+ removeNet(p_index : int)</text>
+  <text
+     x="80"
+     y="260"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9753">+ getNets() : NeuralNet[]</text>
+  <text
+     x="80"
+     y="278"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9755">+ getNet(p_index : int) : NearNeural.NeuralNet</text>
+  <text
+     x="80"
+     y="296"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9757">+ countInputs() : int</text>
+  <text
+     x="80"
+     y="314"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9759">+ moveNet(p_indexFrom : int, p_indexTo : int)</text>
+  <text
+     x="80"
+     y="332"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9761">+ removeNet(net : NearNeural.NeuralNet)</text>
+  <text
+     x="80"
+     y="350"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9763">+ appendNet(f : File)</text>
+  <text
+     x="80"
+     y="368"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9765">+ appendNet(net : NearNeural.NeuralNet)</text>
+  <text
+     x="80"
+     y="386"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9767">+ addSymbol(p_symbol : Symbol)</text>
+  <text
+     x="80"
+     y="404"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9769">+ loadSymbols(f : File)</text>
+  <text
+     x="80"
+     y="422"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9771">+ getSymbolTable() : SymbolTable</text>
+  <text
+     x="80"
+     y="440"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9773">+ getDocument() : Document</text>
+  <text
+     x="80"
+     y="458"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9775">+ setDocument(p_doc : Document)</text>
+  <text
+     x="80"
+     y="476"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9777">+ loadImage(p_file : File)</text>
+  <text
+     x="80"
+     y="494"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9779">+ analyse(listener : ProgressListener)</text>
+  <text
+     x="80"
+     y="512"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9781">+ setAllWeights(p_weight : double)</text>
+  <text
+     x="80"
+     y="530"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9783">+ analyseSymbolWeights(listener : ProgressListener)</text>
+  <text
+     x="80"
+     y="548"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9785">- meanHorizLines(sourceImage : BufferedImage) : double[]</text>
+  <text
+     x="80"
+     y="566"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9787">- meanVertLines(sourceImage : BufferedImage) : double[]</text>
+  <text
+     x="80"
+     y="584"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9789">+ slice(p_thresholdX : double, p_thresholdY : double)</text>
+  <text
+     x="80"
+     y="602"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9791">+ setBGColour(p_bgColour : Color)</text>
+  <rect
+     width="235"
+     x="672"
+     y="824"
+     height="252"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect9793" />
+  <text
+     x="789"
+     y="839"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text9795">Letter</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="842"
+     y2="842"
+     x1="672"
+     x2="906"
+     id="line9797" />
+  <text
+     x="677"
+     y="857"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9799">- width : int</text>
+  <text
+     x="677"
+     y="875"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9801">- height : int</text>
+  <text
+     x="677"
+     y="893"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9803">- x : int</text>
+  <text
+     x="677"
+     y="911"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9805">- y : int</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="914"
+     y2="914"
+     x1="672"
+     x2="906"
+     id="line9807" />
+  <text
+     x="677"
+     y="929"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9809">+ Letter(p_image : BufferedImage)</text>
+  <text
+     x="677"
+     y="947"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9811">+ setWidth(p_width : int)</text>
+  <text
+     x="677"
+     y="965"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9813">+ getWidth() : int</text>
+  <text
+     x="677"
+     y="983"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9815">+ setHeight(p_height : int)</text>
+  <text
+     x="677"
+     y="1001"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9817">+ getHeight() : int</text>
+  <text
+     x="677"
+     y="1019"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9819">+ setX(p_x : int)</text>
+  <text
+     x="677"
+     y="1037"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9821">+ getX() : int</text>
+  <text
+     x="677"
+     y="1055"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9823">+ setY(p_y : int)</text>
+  <text
+     x="677"
+     y="1073"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9825">+ getY() : int</text>
+  <rect
+     width="426"
+     x="1669"
+     y="453"
+     height="234"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect9827" />
+  <text
+     x="1882"
+     y="468"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text9829">Logger</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="471"
+     y2="471"
+     x1="1669"
+     x2="2094"
+     id="line9831" />
+  <text
+     x="1674"
+     y="486"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9833">- messages : ConcurrentLinkedQueue&lt;String&gt;</text>
+  <text
+     x="1674"
+     y="504"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9835">- messageListeners : Vector&lt;MessageListener&gt;</text>
+  <text
+     x="1674"
+     y="522"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9837">- WARNING_PREFIX : String</text>
+  <text
+     x="1674"
+     y="540"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9839">- ERROR_PREFIX : String</text>
+  <text
+     x="1674"
+     y="558"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9841">- INFO_PREFIX : String</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="561"
+     y2="561"
+     x1="1669"
+     x2="2094"
+     id="line9843" />
+  <text
+     x="1674"
+     y="576"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9845">- getDateString() : String</text>
+  <text
+     x="1674"
+     y="594"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9847">- log(message : String)</text>
+  <text
+     x="1674"
+     y="612"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9849">+ logWarning(message : String)</text>
+  <text
+     x="1674"
+     y="630"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9851">+ logError(message : String)</text>
+  <text
+     x="1674"
+     y="648"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9853">+ logInfo(message : String)</text>
+  <text
+     x="1674"
+     y="666"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9855">+ addMessageListener(messageListener : MessageListener)</text>
+  <text
+     x="1674"
+     y="684"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9857">+ removeMessageListener(messageListener : MessageListener)</text>
+  <rect
+     width="320"
+     x="111"
+     y="756"
+     height="234"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect9859" />
+  <text
+     x="271"
+     y="771"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text9861">NetStack</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="774"
+     y2="774"
+     x1="111"
+     x2="430"
+     id="line9863" />
+  <text
+     x="116"
+     y="789"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9865">- nets : Vector&lt;NeuralNet&gt;</text>
+  <text
+     x="116"
+     y="807"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9867">- inputNeurons : int</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="810"
+     y2="810"
+     x1="111"
+     x2="430"
+     id="line9869" />
+  <text
+     x="116"
+     y="825"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9871">+ NetStack()</text>
+  <text
+     x="116"
+     y="843"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9873">+ appendNet(tempNet : NearNeural.NeuralNet)</text>
+  <text
+     x="116"
+     y="861"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9875">+ setInput(p_number : int)</text>
+  <text
+     x="116"
+     y="879"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9877">+ getInputCount() : int</text>
+  <text
+     x="116"
+     y="897"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9879">+ moveNet(p_indexFrom : int, p_indexTo : int)</text>
+  <text
+     x="116"
+     y="915"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9881">+ getNet(p_index : int) : NearNeural.NeuralNet</text>
+  <text
+     x="116"
+     y="933"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9883">+ removeNet(p_net : NearNeural.NeuralNet)</text>
+  <text
+     x="116"
+     y="951"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9885">+ getNets() : NeuralNet[]</text>
+  <text
+     x="116"
+     y="969"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9887">+ countNets() : int</text>
+  <text
+     x="116"
+     y="987"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9889">+ countOutput() : int</text>
+  <rect
+     width="774"
+     x="110"
+     y="1195"
+     height="144"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect9891" />
+  <text
+     x="497"
+     y="1210"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text9893">RunManager</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1213"
+     y2="1213"
+     x1="110"
+     x2="883"
+     id="line9895" />
+  <text
+     x="115"
+     y="1228"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9897">- TRUE_VAL : double</text>
+  <text
+     x="115"
+     y="1246"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9899">- FALSE_VAL : double</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1249"
+     y2="1249"
+     x1="110"
+     x2="883"
+     id="line9901" />
+  <text
+     x="115"
+     y="1264"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9903">+ runOneImg(nets : NeuralNet[], image : ScalableImage, symbols : SymbolTable, listener : ProgressListener) : Symbol</text>
+  <text
+     x="115"
+     y="1282"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9905">- findBestChar(table : SymbolTable, outputs : double[], listener : ProgressListener) : Symbol</text>
+  <text
+     x="115"
+     y="1300"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9907">+ run(nets : NeuralNet[], image : ScalableImage, listener : ProgressListener) : double[]</text>
+  <text
+     x="115"
+     y="1318"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9909">- run(net : NearNeural.NeuralNet, image : ScalableImage, listener : ProgressListener) : double[]</text>
+  <text
+     x="115"
+     y="1336"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9911">- parseImage(sourceImage : BufferedImage) : double[]</text>
+  <rect
+     width="292"
+     x="947"
+     y="545"
+     height="252"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect9913" />
+  <text
+     x="1093"
+     y="560"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text9915">ScalableImage</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="563"
+     y2="563"
+     x1="947"
+     x2="1238"
+     id="line9917" />
+  <text
+     x="952"
+     y="578"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9919"># originalImage : BufferedImage</text>
+  <text
+     x="952"
+     y="596"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9921"># scaledImage : BufferedImage</text>
+  <text
+     x="952"
+     y="614"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9923"># value : String</text>
+  <text
+     x="952"
+     y="632"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9925"># bgColour : Color</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="635"
+     y2="635"
+     x1="947"
+     x2="1238"
+     id="line9927" />
+  <text
+     x="952"
+     y="650"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9929">+ ScalableImage(p_image : BufferedImage)</text>
+  <text
+     x="952"
+     y="668"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9931">+ setImage(p_image : BufferedImage)</text>
+  <text
+     x="952"
+     y="686"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9933">+ setBGColour(p_bgColour : Color)</text>
+  <text
+     x="952"
+     y="704"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9935">+ getBGColour() : Color</text>
+  <text
+     x="952"
+     y="722"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9937">+ setValue(p_value : String)</text>
+  <text
+     x="952"
+     y="740"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9939">+ getValue() : String</text>
+  <text
+     x="952"
+     y="758"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9941">+ getOriginalImage() : BufferedImage</text>
+  <text
+     x="952"
+     y="776"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9943">+ getScaledImage() : BufferedImage</text>
+  <text
+     x="952"
+     y="794"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9945">+ scale(p_width : int, p_height : int)</text>
+  <rect
+     width="470"
+     x="1104"
+     y="875"
+     height="252"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect9947" />
+  <text
+     x="1339"
+     y="890"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text9949">Symbol</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="893"
+     y2="893"
+     x1="1104"
+     x2="1573"
+     id="line9951" />
+  <text
+     x="1109"
+     y="908"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9953">- imageRef : String</text>
+  <text
+     x="1109"
+     y="926"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9955">- weights : WeightedNode[]</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="929"
+     y2="929"
+     x1="1104"
+     x2="1573"
+     id="line9957" />
+  <text
+     x="1109"
+     y="944"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9959">+ Symbol(p_value : String, p_imageFilename : String)</text>
+  <text
+     x="1109"
+     y="962"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9961">+ getWeights() : WeightedNode[]</text>
+  <text
+     x="1109"
+     y="980"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9963">+ getWeightsFromOffset(p_offset : int, p_length : int) : WeightedNode[]</text>
+  <text
+     x="1109"
+     y="998"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9965">+ getWeight(p_index : int) : WeightedNode</text>
+  <text
+     x="1109"
+     y="1016"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9967">+ setWeight(p_weight : WeightedNode, p_index : int)</text>
+  <text
+     x="1109"
+     y="1034"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9969">+ getMeanDeviation(p_outputs : double[]) : double</text>
+  <text
+     x="1109"
+     y="1052"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9971">+ toString() : String</text>
+  <text
+     x="1109"
+     y="1070"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9973">+ setLength(p_length : int)</text>
+  <text
+     x="1109"
+     y="1088"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9975">+ getLength() : int</text>
+  <text
+     x="1109"
+     y="1106"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9977">+ getDesiredValues() : double[]</text>
+  <text
+     x="1109"
+     y="1124"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9979">+ getDesiredValues(p_start : int, p_length : int) : double[]</text>
+  <rect
+     width="245"
+     x="1293"
+     y="152"
+     height="216"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect9981" />
+  <text
+     x="1415"
+     y="167"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text9983">SymbolTable</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="170"
+     y2="170"
+     x1="1293"
+     x2="1537"
+     id="line9985" />
+  <text
+     x="1298"
+     y="185"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9987">- table : Vector&lt;Symbol&gt;</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="188"
+     y2="188"
+     x1="1293"
+     x2="1537"
+     id="line9989" />
+  <text
+     x="1298"
+     y="203"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9991">+ SymbolTable()</text>
+  <text
+     x="1298"
+     y="221"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9993">+ add(p_symbol : Symbol)</text>
+  <text
+     x="1298"
+     y="239"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9995">+ SymbolTable(p_file : FileReader)</text>
+  <text
+     x="1298"
+     y="257"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9997">+ remove(p_index : int)</text>
+  <text
+     x="1298"
+     y="275"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9999">+ save(fout : FileWriter)</text>
+  <text
+     x="1298"
+     y="293"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10001">+ setLength(p_length : int)</text>
+  <text
+     x="1298"
+     y="311"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10003">+ getSymbol(p_index : int) : Symbol</text>
+  <text
+     x="1298"
+     y="329"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10005">+ getSymbols() : Symbol[]</text>
+  <text
+     x="1298"
+     y="347"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10007">+ getLength() : int</text>
+  <text
+     x="1298"
+     y="365"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10009">+ scale(p_width : int, p_height : int)</text>
+  <rect
+     width="1159"
+     x="99"
+     y="1436"
+     height="144"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect10011" />
+  <text
+     x="678"
+     y="1451"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text10013">TrainingManager</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1454"
+     y2="1454"
+     x1="99"
+     x2="1257"
+     id="line10015" />
+  <text
+     x="104"
+     y="1469"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10017">- TRUE_VAL : double</text>
+  <text
+     x="104"
+     y="1487"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10019">- FALSE_VAL : double</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1490"
+     y2="1490"
+     x1="99"
+     x2="1257"
+     id="line10021" />
+  <text
+     x="104"
+     y="1505"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10023">+ adjustSymbolWeights(nets : NeuralNet[], symbol : Symbol, listener : ProgressListener)</text>
+  <text
+     x="104"
+     y="1523"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10025">+ trainAllSymbols(net : NearNeural.NeuralNet, symbols : Symbol[], iterationsPerSymbol : int, iterations : int, listener : ProgressListener, minMSE : double, netOffset : int) : double</text>
+  <text
+     x="104"
+     y="1541"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10027">+ runSingleTrainingCycle(net : NearNeural.NeuralNet, target : Symbol, iterations : int, listener : ProgressListener, netOffset : int) : double</text>
+  <text
+     x="104"
+     y="1559"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10029">- parseImage(sourceImage : BufferedImage) : double[]</text>
+  <text
+     x="104"
+     y="1577"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10031">- train(net : NearNeural.NeuralNet, inputs : double[], desiredOutputs : double[], iterations : int) : double</text>
+  <rect
+     width="450"
+     x="1114"
+     y="1263"
+     height="108"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect10033" />
+  <text
+     x="1339"
+     y="1278"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text10035">WeightedNode</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1281"
+     y2="1281"
+     x1="1114"
+     x2="1563"
+     id="line10037" />
+  <text
+     x="1119"
+     y="1296"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10039">- index : int</text>
+  <text
+     x="1119"
+     y="1314"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10041">- weight : double</text>
+  <text
+     x="1119"
+     y="1332"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10043">- target : double</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1335"
+     y2="1335"
+     x1="1114"
+     x2="1563"
+     id="line10045" />
+  <text
+     x="1119"
+     y="1350"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10047">+ WeightedNode(p_index : int, p_target : double, p_weight : double)</text>
+  <text
+     x="1119"
+     y="1368"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10049">+ setTarget(p_target : double)</text>
+  <rect
+     width="263"
+     x="1671"
+     y="302"
+     height="63"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect10051" />
+  <text
+     x="1802"
+     y="317"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text10053">«interface»</text>
+  <text
+     x="1802"
+     y="335"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:italic;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text10055">MessageListener</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="338"
+     y2="338"
+     x1="1671"
+     x2="1933"
+     id="line10057" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="347"
+     y2="347"
+     x1="1671"
+     x2="1933"
+     id="line10059" />
+  <text
+     x="1676"
+     y="362"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10061">+ messageReceived(message : String)</text>
+  <text
+     x="1357"
+     y="1251"
+     transform="translate(-75,-83)"
+     style="fill:rgb(50,50,50);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text10063">0..1</text>
+  <text
+     x="1308"
+     y="1256"
+     transform="translate(-75,-83)"
+     style="fill:rgb(50,50,50);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text10065">+weights</text>
+  <rect
+     width="335"
+     x="1670"
+     y="117"
+     height="99"
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect10067" />
+  <text
+     x="1837"
+     y="132"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text10069">«interface»</text>
+  <text
+     x="1837"
+     y="150"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:italic;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text10071">ProgressListener</text>
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="153"
+     y2="153"
+     x1="1670"
+     x2="2004"
+     id="line10073" />
+  <line
+     transform="translate(-75,-83)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="162"
+     y2="162"
+     x1="1670"
+     x2="2004"
+     id="line10075" />
+  <text
+     x="1675"
+     y="177"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10077">+ valueChanged(progress : double, limit : double)</text>
+  <text
+     x="1675"
+     y="195"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10079">+ eventOccurred(action : String)</text>
+  <text
+     x="1675"
+     y="213"
+     transform="translate(-75,-83)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text10081">+ errorOccurred(error : String)</text>
+  <text
+     x="643"
+     y="450"
+     transform="translate(-75,-83)"
+     style="fill:rgb(50,50,50);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text10083">+doc</text>
+  <text
+     x="251"
+     y="749"
+     transform="translate(-75,-83)"
+     style="fill:rgb(50,50,50);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text10085">+nets</text>
+</svg>

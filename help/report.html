@@ -1,0 +1,96 @@
+<html>
+	<head>
+		<title>NearOCR</title>
+	</head>
+	<body>
+		<h1>NearOCR</h1>
+		<h2>NearNeural based OCR package</h2>	
+
+		<ol>
+			<li>Introduction</li>
+			<li>Design
+				<ol>
+					<li>Statement of functionality and relative success</li>
+					<li>Basic principles [overview]</li>
+					<li>Implementation design</li>
+				</ol>	
+			</li>
+			<li>User guide
+				<ol>
+					<li>Basic analysis</li>
+					<li>Training nets and symbols</li>
+					<li>Advanced features</li>
+				</ol>
+			</li>
+			<li>Appendices
+				<ol>
+					<li>Full UML diagrams</li>
+				</ol>
+			</li>
+		</ol>
+	
+		<hr/>
+		<h3>Introduction</h3>
+		<h4>The problem</h4>
+		<p>The problem, as defined by myself, was to implement the infrastructure necessary to perform basic, proof-of-concept optical character recognition on an average-case sample document or documents by way of a feed-forward neural net.</p>
+		<h4>Primary design challenges</h4>
+		<p>The problem with any such challenge is ultimately that any practical implementation of a net will take a restricted set of numerical values only.  In my case, using a sigmoid-thresholded net, the outputs and inputs were severely restricted.  The pre-parsing system that converts images into net-appropriate data thus needed to be reliable and accurate enough to allow the net to differentiate small changes in only certain pixels.  I read about existing implementations and found that two methods were used amove others:
+		<ol>
+			<li>Receptors - A series of randomly placed receptors are placed across an image, addressed as percentiles of the image size.  The value across all pixels that intersect with receptors is then calculated, normalised and passed into the net.  This has the advantage of accepting any letter size without modification of the original letter, in theory retaining detail.  Disadvantages can stem from the location of receptors changing or being badly distributed for certain letters.</li>
+			<li>Scaling - simply resizing the image to fit the net.  Advantages of this method are primarily based on reliability issues: the user does not have to load a receptor distribution along with a net and all pixels are considered, assuming the resizing algorithm is capable of retaining edges with a greater priority than whitespace.  Detail is, however, lost to the resizer and nets may force strange sizes due to input neuron dimensions.</li>
+		</ol>
+		Ultimately I chose to resize my letters.  This choice allowed me to avoid the end-user trouble of selecting receptors and the time necessary to construct the receptor system, which may have, given hindsight, caused me to miss the deadline.  The sizing algorithm is detaliled later, to avoid repeating myself it shall not be outlined here.</p>
+
+		<p>The other challenge was constructing an accurate symbol table.  This was, at the time of starting the project, a completely unknown area for me - I could not find any existing implementations of the system I was planning, but could also not find how else this task could be accomplished.  I believe this to be due to the fact that most OCR programs which utilise similar technologies come pre-trained for certain fonts and as such never distribute the code necessary to produce that data.</p>
+		<p>The symbol table, in the form I have implemented, takes the form of a series of letters (sharing a common superclass holding all image, sizing data and scaling algorithms) that have been instructed by the user how to perform at the output layer - they are aware of which outputs ought to be firing when they are run, and they are aware of what value their image equate to.  This allows almost unsupervised training.  With better nets this allows for the net to adapt as it is run and re-train notably absent or infrequently seen letters by merely re-training the net with that symbol.  This would, however, require that the symbol table have a knowledge of common letter distributions and an algorithm capable of deciding what is unacceptable as deviation.  Since the document is theoretically arbitrary and may not even include letters this would be data that is implausible for the user to procure - I'd even have trouble preparing training moderately useful sets.</p>
+
+
+		<hr/>
+		<h3>Design and Implementation</h3>
+		<h4>Statement of functionality and relative success</h4>
+		<p>The success of my training and analysis depends entirely but not solely on the nets.  Nets which ahve been trained with incorrect data for the letters they are analysing will be utterly useless, likewise, it is possible to overtrain nets with good data, making them all but ignore everything but another input of the training data.  Both of these problems are left entirely to the end user, as the program makes no assumptions about the quality, complexity or frequency of letters, nets or symbols.  In so far as it is capable of training, running and manipulating neural nets in order to recognise characters the project was successful.  It has proven a worthy proof of concept to the point that it may continue to be developed with the addition of some features as discussed in this document.  I have managed to achieve ~60% accuracy rates when parsing characters of the correct font from a screenshot of a text editor and accuracy falls only slowly when noise is introduced, indicating a resilience that would be absent with a simple subtractive algorithm.</p>
+
+		<h4>Basic principles</h4>
+		<p>After much design I settled upon the following process for analysis.</p>
+		<ol>
+			<li>A document is loaded as any BufferedImage</li>
+			<li>Letters are identified through a line/character averaging algorithm.  There are many other options for this which offer advantages over my choice</li>
+			<li>Letters are resized to fit a standard number of input pixels for the nets currently loaded.  This requires all nets to have the same number of input neurons</li>
+			<li>All nets are run with the same input, effecitvely in parallel (this is where my diagram below has slight inaccuracies).  Outputs are serialised as per the order of the nets into a one-dimensional array the length of each net's output neurons added to every other's</li>
+			<li>This full set of return data from the nets is compared to symbols and a best match is found</li>
+			<li>This best match is written back to the original Letter, keeping image, size, document location (for text flow analysis) and value in one object</li>
+		</ol>
+		<img src="fig1.png"/>
+		<p>This process allows for a lot of flexibility.  My reasons for such choices are primarily related to the document, are are outlined below:</p>
+		<ul>
+			<li>Nets can be individually loaded. A separate net could thus be trained for uppercase and lowercase characters, characters and digits or even mathematical symbol addons.  This allows for the nets to handle as few plausible outputs as possible, making them more accurate, simpler individually and faster to train.</li>
+			<li>Symbols can be loaded to span a range of nets, meaning that many symbol tables could be attached to a single font for various specific character requirements.  Many nets can also influence each other through the weighted symbol table, which allows entirely separate properties of a letter to be combined without the net becoming implausibly deeply layered and thus slow to run and train, for example, one net could have been trained with black boxes in the shape of letters in the chosen font and could reinforce or destroy the assertions of one designed to pick up perfect letter representations by combination within symbols</li>
+			<li>Letters store not only their original images, but also all data necessary to recombine the document into a flowing, formatted output file similar in appearance to the original.  The most desirable extension to the current system is output to EPS, allowing letters to be apropriately scaled and placed.</li>
+		</ul>
+
+	
+		<h4>Implementation design</h4>
+		<p>The implementation is splt into distinct layers and packaged appropriately.  Encapsulating all OCR function is the NearOCR package, containing the class in control of all analysis and global data processing; OCRManager.  This is designed as a primary interface to OCR function, allowing for an arbitrary user interface.  The NearOCR package manages NearNeural neural nets, which are primarily managed through the NeuralNet class in a similar manner.  Both packages have other classes accessible for access to advanced, if questionable, modifications to specific aspects and other data mining.  The Swing based GUI then interfaces only with the OCRManager and its returned data, simplifying both it and access control, especially to restricted function such as the length of the symbol table, which must match the sum of the number of output neurons in the net stack.</p>
+		<img src="fig2.png"/>
+		<p>The NearNeural libraries were rewritten from scratch for this project and improved immeasurably.  They now support arbitrary thresholding algorithms, although I have only implemented sigmoid neurons and backpropagation algorithms.  There was less room for modification here as the nets have a particular and set structure, although the *Layer classes now represent arbitraruly arranged sets of neurons, as the new version of NearNeural can handle non-layered and partially-connected nets.  The architecture is illustrated loosely below.</p>
+		<img src="fig3.png"/>
+		<p>The Swing UI was based around a single JFrame with multiple tabs, each of which attempted to represent a primary function of the OCR process to the user.  A dialog to create new nets was also added as this was badly suited to the tabbing system.</p>
+
+		<hr/>
+		<h3>User manual</h3>
+		<h4>Running analysis</h4>
+
+		<hr/>
+		<h3>Appendices</h3>
+		<h4>UML diagrams</h4>
+		<p>The UI diagram:</p>
+		<img src="UML_ui.png" style="width: 100%;"/>
+		<p>The NearOCR package:</p>
+		<img src="UML-NearOCR.png" style="width: 100%;"/>
+		<p>The NearNeural package:</p>
+		<img src="UML-NearNeural.png" style="width: 100%;"/>
+		<p>The entire project:</p>
+		<img src="UML-all.png" style="width: 100%;"/>
+
+	</body>
+</html>

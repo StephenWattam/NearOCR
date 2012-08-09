@@ -1,0 +1,27 @@
+#!/bin/bash
+
+echo "refreshing Bin/ ..."
+rm -rf Bin
+mkdir Bin
+
+echo "copying files..."
+cp -r * Bin
+
+echo "cleaning up..."
+cd Bin
+rm compile
+rm run
+rm document
+rmdir Bin
+
+echo "compiling..."
+javac -O NearNeural/*.java
+javac -O NearOCR/*.java
+javac -O *.java
+
+echo "cleaning up a bit more..."
+rm *.java
+rm NearNeural/*.java
+rm NearOCR/*.java
+
+echo "Done."

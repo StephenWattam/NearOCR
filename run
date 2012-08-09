@@ -1,0 +1,53 @@
+
+#clear
+#
+#
+#
+#echo -e "\n+----------------------" &&
+#echo Compiling NearNeural...\\ &&
+#echo +--------------------------------------------- &&
+#javac NearNeural/*.java &&
+#
+#echo -e "\n+-------------------" &&
+#echo Compiling NearOCR...\\&&
+#echo +---------------------------------------------&&
+#javac NearOCR/*.java &&
+#
+#echo -e "\n+------------------"&&
+#echo Compiling others...\\&&
+#echo +---------------------------------------------&&
+#javac -Xlint:unchecked  *.java &&
+#
+#
+#echo -e "\n+---------" &&
+#echo Running...\\ &&
+#echo +--------------------------------------------- &&
+##date > errorLog &&
+#date &&
+cd Bin
+java -splash:data/sourceImages/splash.png OCRSwing 
+
+
+#echo -e "\n+-------------" &&
+#echo Cleaning up...\\ &&
+#echo +--------------------------------------------- &&
+#rm *.class &&
+#rm NearOCR/*.class &&
+#rm NearNeural/*.class &&
+#
+#echo -e "\n+-------------------" &&
+#echo Beginning JavaDoc...\\ &&
+#echo +--------------------------------------------- &&
+#javadoc -d docs -version -author -quiet NearNeural/*.java NearOCR/*.java *.java
+
+#echo +----------- &&
+#echo JavaDoc logs\\ &&
+#echo +--------------------------------------------- &&
+#cat javaDocLog &&
+#rm javaDocLog &&
+#
+#echo +----------- &&
+#echo Error logs\\ &&
+#echo +--------------------------------------------- &&
+#cat javaDocLog &&
+#rm javaDocLog

@@ -1,0 +1,1817 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2171"
+   x="0"
+   y="0"
+   height="1761"
+   id="/home/extremetomato/Desktop/NearNeural"
+   sodipodi:version="0.32"
+   inkscape:version="0.45"
+   sodipodi:docname="NearNeural.svg"
+   sodipodi:docbase="/mnt/usb"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata9104">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9102" />
+  <sodipodi:namedview
+     inkscape:window-height="588"
+     inkscape:window-width="759"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.21408291"
+     inkscape:cx="1085.5"
+     inkscape:cy="880.5"
+     inkscape:window-x="1280"
+     inkscape:window-y="768"
+     inkscape:current-layer="/home/extremetomato/Desktop/NearNeural" />
+  <rect
+     width="2171"
+     x="41"
+     y="70"
+     height="1761"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,255,255);"
+     id="rect8591" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="382"
+     y2="478"
+     x1="760"
+     x2="760"
+     id="line8593" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="332"
+     y2="332"
+     x1="461"
+     x2="600"
+     id="line8595" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;stroke-dasharray:18,6;fill:none;"
+     y1="1241"
+     y2="1098"
+     x1="506"
+     x2="285"
+     id="line8597" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="575"
+     y2="858"
+     x1="257"
+     x2="257"
+     id="line8599" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;stroke-dasharray:18,6;fill:none;"
+     y1="1238"
+     y2="1098"
+     x1="154"
+     x2="242"
+     id="line8601" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1065"
+     y2="1066"
+     x1="604"
+     x2="328"
+     id="line8603" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="828"
+     y2="640"
+     x1="760"
+     x2="760"
+     id="line8605" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="876"
+     y2="877"
+     x1="335"
+     x2="519"
+     id="line8607" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1714"
+     y2="1583"
+     x1="506"
+     x2="506"
+     id="line8609" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="189"
+     y2="106"
+     x1="1503"
+     x2="1501"
+     id="line8611" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="505"
+     y2="252"
+     x1="1679"
+     x2="1532"
+     id="line8613" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="509"
+     y2="252"
+     x1="1158"
+     x2="1416"
+     id="line8615" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="645"
+     y2="252"
+     x1="2045"
+     x2="1590"
+     id="line8617" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="622"
+     y2="252"
+     x1="1405"
+     x2="1474"
+     id="line8619" />
+  <polygon
+     points="461 332 471 336 483 332 471 328"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,0,0);"
+     id="polygon8621" />
+  <polygon
+     points="285 1098 291 1110 298 1099 285 1098"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,255,255);"
+     id="polygon8623" />
+  <polygon
+     points="257 575 253 585 257 597 261 585"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,0,0);"
+     id="polygon8625" />
+  <polygon
+     points="760 640 753 651 767 651 760 640"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,255,255);"
+     id="polygon8627" />
+  <polygon
+     points="242 1098 231 1104 242 1111 242 1098"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,255,255);"
+     id="polygon8629" />
+  <polygon
+     points="604 1065 594 1061 582 1065 594 1069"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,0,0);"
+     id="polygon8631" />
+  <polygon
+     points="519 877 508 870 508 883 519 877"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,255,255);"
+     id="polygon8633" />
+  <polygon
+     points="506 1583 499 1594 513 1594 506 1583"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,255,255);"
+     id="polygon8635" />
+  <polygon
+     points="760 478 767 467 753 467 760 478"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,255,255);"
+     id="polygon8637" />
+  <polygon
+     points="1501 106 1495 117 1508 117 1501 106"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,255,255);"
+     id="polygon8639" />
+  <polygon
+     points="1532 252 1532 265 1543 258 1532 252"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,255,255);"
+     id="polygon8641" />
+  <polygon
+     points="1416 252 1403 255 1413 265 1416 252"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,255,255);"
+     id="polygon8643" />
+  <polygon
+     points="1590 252 1594 264 1603 254 1590 252"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,255,255);"
+     id="polygon8645" />
+  <polygon
+     points="1474 252 1466 262 1478 264 1474 252"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(0,0,0);stroke-width:0;fill:rgb(255,255,255);"
+     id="polygon8647" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="332"
+     y2="336"
+     x1="461"
+     x2="471"
+     id="line8649" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="332"
+     y2="328"
+     x1="483"
+     x2="471"
+     id="line8651" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="336"
+     y2="332"
+     x1="471"
+     x2="483"
+     id="line8653" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="328"
+     y2="332"
+     x1="471"
+     x2="461"
+     id="line8655" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1098"
+     y2="1110"
+     x1="285"
+     x2="291"
+     id="line8657" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1110"
+     y2="1099"
+     x1="291"
+     x2="298"
+     id="line8659" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1098"
+     y2="1099"
+     x1="285"
+     x2="298"
+     id="line8661" />
+  <rect
+     width="129"
+     x="199"
+     y="1035"
+     height="63"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect8663" />
+  <text
+     x="263"
+     y="1050"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8665">«interface»</text>
+  <text
+     x="263"
+     y="1068"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:italic;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8667">Neuron</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1071"
+     y2="1071"
+     x1="199"
+     x2="327"
+     id="line8669" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1080"
+     y2="1080"
+     x1="199"
+     x2="327"
+     id="line8671" />
+  <text
+     x="204"
+     y="1095"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8673">+ value() : double</text>
+  <rect
+     width="83"
+     x="1460"
+     y="70"
+     height="36"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect8675" />
+  <text
+     x="1501"
+     y="85"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8677">Exception</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="88"
+     y2="88"
+     x1="1460"
+     x2="1542"
+     id="line8679" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="97"
+     y2="97"
+     x1="1460"
+     x2="1542"
+     id="line8681" />
+  <rect
+     width="289"
+     x="1359"
+     y="189"
+     height="63"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect8683" />
+  <text
+     x="1503"
+     y="204"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8685">NeuralNetException</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="207"
+     y2="207"
+     x1="1359"
+     x2="1647"
+     id="line8687" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="216"
+     y2="216"
+     x1="1359"
+     x2="1647"
+     id="line8689" />
+  <text
+     x="1364"
+     y="231"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8691"># NeuralNetException(p_message : String)</text>
+  <text
+     x="1364"
+     y="249"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8693"># NeuralNetException()</text>
+  <rect
+     width="841"
+     x="1137"
+     y="1058"
+     height="153"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect8695" />
+  <text
+     x="1557"
+     y="1073"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8697">PostProcess</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1076"
+     y2="1076"
+     x1="1137"
+     x2="1977"
+     id="line8699" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1085"
+     y2="1085"
+     x1="1137"
+     x2="1977"
+     id="line8701" />
+  <text
+     x="1142"
+     y="1100"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8703">+ denormalise(p_value : double, p_limit : double, p_lowerTolerance : double, p_upperTolerance : double) : double</text>
+  <text
+     x="1142"
+     y="1118"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8705">+ denormalise(p_values : double[], p_limits : double[], p_lowerTolerances : double[], p_upperTolerances : double[]) : double[]</text>
+  <text
+     x="1142"
+     y="1136"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8707">+ denormalise(p_values : double[], p_limit : double, p_lowerTolerance : double, p_upperTolerance : double) : double[]</text>
+  <text
+     x="1142"
+     y="1154"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8709">+ denormalise(p_value : double, p_true : double, p_false : double, p_trueTolerance : double, p_falseTolerance : double) : boolean</text>
+  <text
+     x="1142"
+     y="1172"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8711">+ denormalise(p_values : double) : boolean[]</text>
+  <text
+     x="1142"
+     y="1190"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8713">+ denormalise(p_value : double, p_true : double, p_false : double) : boolean</text>
+  <text
+     x="1142"
+     y="1208"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8715">+ denormalise(p_values : double[], p_trues : double[], p_falses : double[]) : boolean[]</text>
+  <rect
+     width="344"
+     x="1507"
+     y="505"
+     height="63"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect8717" />
+  <text
+     x="1679"
+     y="520"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8719">IndexOutOfBoundsException</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="523"
+     y2="523"
+     x1="1507"
+     x2="1850"
+     id="line8721" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="532"
+     y2="532"
+     x1="1507"
+     x2="1850"
+     id="line8723" />
+  <text
+     x="1512"
+     y="547"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8725"># IndexOutOfBoundsException(p_message : String)</text>
+  <text
+     x="1512"
+     y="565"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8727"># IndexOutOfBoundsException()</text>
+  <rect
+     width="314"
+     x="1001"
+     y="509"
+     height="63"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect8729" />
+  <text
+     x="1158"
+     y="524"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8731">ItemNotFoundException</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="527"
+     y2="527"
+     x1="1001"
+     x2="1314"
+     id="line8733" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="536"
+     y2="536"
+     x1="1001"
+     x2="1314"
+     id="line8735" />
+  <text
+     x="1006"
+     y="551"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8737">+ ItemNotFoundException(p_message : String)</text>
+  <text
+     x="1006"
+     y="569"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8739">+ ItemNotFoundException()</text>
+  <rect
+     width="155"
+     x="180"
+     y="858"
+     height="36"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect8741" />
+  <text
+     x="257"
+     y="873"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8743">OutputNeuronLayer</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="876"
+     y2="876"
+     x1="180"
+     x2="334"
+     id="line8745" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="885"
+     y2="885"
+     x1="180"
+     x2="334"
+     id="line8747" />
+  <rect
+     width="804"
+     x="1142"
+     y="846"
+     height="135"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect8749" />
+  <text
+     x="1544"
+     y="861"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8751">PreProcess</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="864"
+     y2="864"
+     x1="1142"
+     x2="1945"
+     id="line8753" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="873"
+     y2="873"
+     x1="1142"
+     x2="1945"
+     id="line8755" />
+  <text
+     x="1147"
+     y="888"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8757">+ normalise(p_value : double, p_limit : double, p_lowerTolerance : double, p_upperTolerance : double) : double</text>
+  <text
+     x="1147"
+     y="906"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8759">+ normalise(p_values : double[], p_limits : double[], p_lowerTolerances : double[], p_upperTolerances : double[]) : double[]</text>
+  <text
+     x="1147"
+     y="924"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8761">+ normalise(p_values : double[], p_limit : double, p_lowerTolerance : double, p_upperTolerance : double) : double[]</text>
+  <text
+     x="1147"
+     y="942"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8763">+ normalise(p_value : boolean, p_true : double, p_false : double) : double</text>
+  <text
+     x="1147"
+     y="960"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8765">+ normalise(p_values : boolean[], p_trues : double[], p_falses : double[]) : double[]</text>
+  <text
+     x="1147"
+     y="978"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8767">+ normalise(p_values : boolean[], p_true : double, p_false : double) : double[]</text>
+  <rect
+     width="335"
+     x="339"
+     y="1241"
+     height="342"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect8769" />
+  <text
+     x="506"
+     y="1256"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8771">ReceptiveNeuron</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1259"
+     y2="1259"
+     x1="339"
+     x2="673"
+     id="line8773" />
+  <text
+     x="344"
+     y="1274"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8775"># edges : Edge[]</text>
+  <text
+     x="344"
+     y="1292"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8777"># delta : double</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1295"
+     y2="1295"
+     x1="339"
+     x2="673"
+     id="line8779" />
+  <text
+     x="344"
+     y="1310"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8781"># addEdges(p_neuronList : Neuron[])</text>
+  <text
+     x="344"
+     y="1328"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8783"># ReceptiveNeuron()</text>
+  <text
+     x="344"
+     y="1346"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8785"># ReceptiveNeuron(p_inputEdges : Edge[])</text>
+  <text
+     x="344"
+     y="1364"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8787">+ getDelta() : double</text>
+  <text
+     x="344"
+     y="1382"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8789"># setDelta(p_delta : double)</text>
+  <text
+     x="344"
+     y="1400"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8791"># setEdgeWeight(p_index : int, p_weight : double)</text>
+  <text
+     x="344"
+     y="1418"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8793">- calculateEdges(p_neurons : Neuron[]) : Edge[]</text>
+  <text
+     x="344"
+     y="1436"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8795"># addEdge(p_edge : Edge)</text>
+  <text
+     x="344"
+     y="1454"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8797"># removeEdge(p_edge : Edge)</text>
+  <text
+     x="344"
+     y="1472"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8799"># prune(p_threshold : double)</text>
+  <text
+     x="344"
+     y="1490"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8801"># removeEdge(p_index : int)</text>
+  <text
+     x="344"
+     y="1508"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8803">+ countEdges() : int</text>
+  <text
+     x="344"
+     y="1526"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8805">+ getInputEdges() : Edge[]</text>
+  <text
+     x="344"
+     y="1544"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8807">+ value() : double</text>
+  <text
+     x="344"
+     y="1562"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8809"># getEdge(p_index : int) : Edge</text>
+  <text
+     x="344"
+     y="1580"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8811">+ isPresent(p_edge : Edge) : boolean</text>
+  <rect
+     width="482"
+     x="519"
+     y="828"
+     height="99"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect8813" />
+  <text
+     x="760"
+     y="843"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8815">ReceptiveNeuronLayer</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="846"
+     y2="846"
+     x1="519"
+     x2="1000"
+     id="line8817" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="855"
+     y2="855"
+     x1="519"
+     x2="1000"
+     id="line8819" />
+  <text
+     x="524"
+     y="870"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8821"># linkTo(p_neuronlayer : NeuronLayer)</text>
+  <text
+     x="524"
+     y="888"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8823">+ getEdge(p_neuronIndex : int, p_edgeIndex : int) : Edge</text>
+  <text
+     x="524"
+     y="906"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8825"># sigmoid(x : double) : double</text>
+  <text
+     x="524"
+     y="924"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8827"># backPropagate(p_learningRate : double, p_downstream : NeuronLayer)</text>
+  <rect
+     width="276"
+     x="368"
+     y="1714"
+     height="117"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect8829" />
+  <text
+     x="506"
+     y="1729"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8831">SigmoidNeuron</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1732"
+     y2="1732"
+     x1="368"
+     x2="643"
+     id="line8833" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1741"
+     y2="1741"
+     x1="368"
+     x2="643"
+     id="line8835" />
+  <text
+     x="373"
+     y="1756"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8837"># SigmoidNeuron(p_inputEdges : Edge[])</text>
+  <text
+     x="373"
+     y="1774"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8839"># SigmoidNeuron()</text>
+  <text
+     x="373"
+     y="1792"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8841">- sigmoid(x : double) : double</text>
+  <text
+     x="373"
+     y="1810"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8843">- processInput() : double</text>
+  <text
+     x="373"
+     y="1828"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8845">+ value() : double</text>
+  <rect
+     width="227"
+     x="41"
+     y="1238"
+     height="90"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect8847" />
+  <text
+     x="154"
+     y="1253"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8849">StaticNeuron</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1256"
+     y2="1256"
+     x1="41"
+     x2="267"
+     id="line8851" />
+  <text
+     x="46"
+     y="1271"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8853">- value : double</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1274"
+     y2="1274"
+     x1="41"
+     x2="267"
+     id="line8855" />
+  <text
+     x="46"
+     y="1289"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8857"># StaticNeuron(p_value : double)</text>
+  <text
+     x="46"
+     y="1307"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8859"># setValue(p_value : double)</text>
+  <text
+     x="46"
+     y="1325"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8861">+ value() : double</text>
+  <rect
+     width="320"
+     x="600"
+     y="283"
+     height="99"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect8863" />
+  <text
+     x="760"
+     y="298"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8865">StaticNeuronLayer</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="301"
+     y2="301"
+     x1="600"
+     x2="919"
+     id="line8867" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="310"
+     y2="310"
+     x1="600"
+     x2="919"
+     id="line8869" />
+  <text
+     x="605"
+     y="325"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8871"># StaticNeuronLayer(p_numberOfNeurons : int)</text>
+  <text
+     x="605"
+     y="343"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8873"># StaticNeuronLayer()</text>
+  <text
+     x="605"
+     y="361"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8875"># setInputValue(p_value : double, p_index : int)</text>
+  <text
+     x="605"
+     y="379"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8877"># setInputValues(p_values : double[])</text>
+  <rect
+     width="333"
+     x="1879"
+     y="645"
+     height="63"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect8879" />
+  <text
+     x="2045"
+     y="660"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8881">UnresolvedValueException</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="663"
+     y2="663"
+     x1="1879"
+     x2="2211"
+     id="line8883" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="672"
+     y2="672"
+     x1="1879"
+     x2="2211"
+     id="line8885" />
+  <text
+     x="1884"
+     y="687"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8887"># UnresolvedValueException(p_message : String)</text>
+  <text
+     x="1884"
+     y="705"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8889"># UnresolvedValueException()</text>
+  <rect
+     width="459"
+     x="1176"
+     y="622"
+     height="90"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect8891" />
+  <text
+     x="1405"
+     y="637"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8893">ValueOutOfBoundsException</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="640"
+     y2="640"
+     x1="1176"
+     x2="1634"
+     id="line8895" />
+  <text
+     x="1181"
+     y="655"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8897">- attemptedValue : double</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="658"
+     y2="658"
+     x1="1176"
+     x2="1634"
+     id="line8899" />
+  <text
+     x="1181"
+     y="673"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8901">+ ValueOutOfBoundsException(p_message : String, p_value : double)</text>
+  <text
+     x="1181"
+     y="691"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8903">+ ValueOutOfBoundsException(p_message : String)</text>
+  <text
+     x="1181"
+     y="709"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8905">+ ValueOutOfBoundsException()</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="106"
+     y2="117"
+     x1="1501"
+     x2="1508"
+     id="line8907" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="117"
+     y2="117"
+     x1="1495"
+     x2="1508"
+     id="line8909" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="575"
+     y2="585"
+     x1="257"
+     x2="253"
+     id="line8911" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="597"
+     y2="585"
+     x1="257"
+     x2="261"
+     id="line8913" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="585"
+     y2="597"
+     x1="253"
+     x2="257"
+     id="line8915" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="585"
+     y2="575"
+     x1="261"
+     x2="257"
+     id="line8917" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="640"
+     y2="651"
+     x1="760"
+     x2="753"
+     id="line8919" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="651"
+     y2="651"
+     x1="753"
+     x2="767"
+     id="line8921" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="640"
+     y2="651"
+     x1="760"
+     x2="767"
+     id="line8923" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1098"
+     y2="1104"
+     x1="242"
+     x2="231"
+     id="line8925" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1104"
+     y2="1111"
+     x1="231"
+     x2="242"
+     id="line8927" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1098"
+     y2="1111"
+     x1="242"
+     x2="242"
+     id="line8929" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1065"
+     y2="1061"
+     x1="604"
+     x2="594"
+     id="line8931" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1065"
+     y2="1069"
+     x1="582"
+     x2="594"
+     id="line8933" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1061"
+     y2="1065"
+     x1="594"
+     x2="582"
+     id="line8935" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1069"
+     y2="1065"
+     x1="594"
+     x2="604"
+     id="line8937" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="877"
+     y2="870"
+     x1="519"
+     x2="508"
+     id="line8939" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="870"
+     y2="883"
+     x1="508"
+     x2="508"
+     id="line8941" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="877"
+     y2="883"
+     x1="519"
+     x2="508"
+     id="line8943" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1583"
+     y2="1594"
+     x1="506"
+     x2="499"
+     id="line8945" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1594"
+     y2="1594"
+     x1="499"
+     x2="513"
+     id="line8947" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="1583"
+     y2="1594"
+     x1="506"
+     x2="513"
+     id="line8949" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="478"
+     y2="467"
+     x1="760"
+     x2="767"
+     id="line8951" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="467"
+     y2="467"
+     x1="767"
+     x2="753"
+     id="line8953" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="478"
+     y2="467"
+     x1="760"
+     x2="753"
+     id="line8955" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="106"
+     y2="117"
+     x1="1501"
+     x2="1495"
+     id="line8957" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="252"
+     y2="265"
+     x1="1532"
+     x2="1532"
+     id="line8959" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="265"
+     y2="258"
+     x1="1532"
+     x2="1543"
+     id="line8961" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="252"
+     y2="258"
+     x1="1532"
+     x2="1543"
+     id="line8963" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="252"
+     y2="255"
+     x1="1416"
+     x2="1403"
+     id="line8965" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="255"
+     y2="265"
+     x1="1403"
+     x2="1413"
+     id="line8967" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="252"
+     y2="265"
+     x1="1416"
+     x2="1413"
+     id="line8969" />
+  <rect
+     width="408"
+     x="53"
+     y="89"
+     height="486"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect8971" />
+  <text
+     x="257"
+     y="104"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text8973">NeuralNet</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="107"
+     y2="107"
+     x1="53"
+     x2="460"
+     id="line8975" />
+  <text
+     x="58"
+     y="122"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8977">+ version : String</text>
+  <text
+     x="58"
+     y="140"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8979">+ supportedVersions : String[]</text>
+  <text
+     x="58"
+     y="158"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8981">- inputLayer : StaticNeuronLayer</text>
+  <text
+     x="58"
+     y="176"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8983">- hiddenLayers : ReceptiveNeuronLayer[]</text>
+  <text
+     x="58"
+     y="194"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8985">- outputLayer : OutputNeuronLayer</text>
+  <text
+     x="58"
+     y="212"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8987">- learningRate : double</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="215"
+     y2="215"
+     x1="53"
+     x2="460"
+     id="line8989" />
+  <text
+     x="58"
+     y="230"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8991">+ NeuralNet(p_layers : int[], p_learningRate : double)</text>
+  <text
+     x="58"
+     y="248"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8993">+ getLayer(p_index : int) : NeuronLayer</text>
+  <text
+     x="58"
+     y="266"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8995">+ getNeuron(p_layerIndex : int, p_neuronIndex : int) : Neuron</text>
+  <text
+     x="58"
+     y="284"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8997">- reconstructNet(p_layers : int[])</text>
+  <text
+     x="58"
+     y="302"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text8999">+ setInputValues(p_values : double[])</text>
+  <text
+     x="58"
+     y="320"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9001">+ getLearningRate() : double</text>
+  <text
+     x="58"
+     y="338"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9003">+ setLearningRate(p_learningRate : double)</text>
+  <text
+     x="58"
+     y="356"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9005">+ setInputValue(p_value : double, p_index : int)</text>
+  <text
+     x="58"
+     y="374"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9007">+ getNumberOfLayers() : int</text>
+  <text
+     x="58"
+     y="392"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9009">+ getLayerStructure() : int[]</text>
+  <text
+     x="58"
+     y="410"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9011">+ getOutput() : double[]</text>
+  <text
+     x="58"
+     y="428"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9013">- getResults(p_index : int) : double[]</text>
+  <text
+     x="58"
+     y="446"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9015">+ train(p_desirable : double[]) : double</text>
+  <text
+     x="58"
+     y="464"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9017">- getAllNeurons() : Neuron[]</text>
+  <text
+     x="58"
+     y="482"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9019">+ removeNeuron(p_neuron : Neuron)</text>
+  <text
+     x="58"
+     y="500"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9021">+ prune(p_threshold : double)</text>
+  <text
+     x="58"
+     y="518"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9023">+ save(p_file : FileWriter)</text>
+  <text
+     x="58"
+     y="536"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9025">+ NeuralNet(p_file : FileReader)</text>
+  <text
+     x="58"
+     y="554"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9027">+ getSupportedFileVersions() : String[]</text>
+  <text
+     x="58"
+     y="572"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9029">+ toString() : String</text>
+  <rect
+     width="306"
+     x="604"
+     y="966"
+     height="198"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect9031" />
+  <text
+     x="757"
+     y="981"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text9033">Edge</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="984"
+     y2="984"
+     x1="604"
+     x2="909"
+     id="line9035" />
+  <text
+     x="609"
+     y="999"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9037"># source : Neuron</text>
+  <text
+     x="609"
+     y="1017"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9039">- weight : double</text>
+  <text
+     x="609"
+     y="1035"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9041">- oldWeight : double</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="1038"
+     y2="1038"
+     x1="604"
+     x2="909"
+     id="line9043" />
+  <text
+     x="609"
+     y="1053"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9045">+ setOldWeight(p_weight : double)</text>
+  <text
+     x="609"
+     y="1071"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9047">+ getOldWeight() : double</text>
+  <text
+     x="609"
+     y="1089"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9049">+ getSource() : Neuron</text>
+  <text
+     x="609"
+     y="1107"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9051"># Edge(p_source : Neuron, p_weight : double)</text>
+  <text
+     x="609"
+     y="1125"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9053">- setSource(p_source : Neuron)</text>
+  <text
+     x="609"
+     y="1143"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9055"># setWeight(p_weight : double)</text>
+  <text
+     x="609"
+     y="1161"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9057">+ getWeight() : double</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="252"
+     y2="264"
+     x1="1590"
+     x2="1594"
+     id="line9059" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="264"
+     y2="254"
+     x1="1594"
+     x2="1603"
+     id="line9061" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="252"
+     y2="254"
+     x1="1590"
+     x2="1603"
+     id="line9063" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="252"
+     y2="262"
+     x1="1474"
+     x2="1466"
+     id="line9065" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="262"
+     y2="264"
+     x1="1466"
+     x2="1478"
+     id="line9067" />
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:none;"
+     y1="252"
+     y2="264"
+     x1="1474"
+     x2="1478"
+     id="line9069" />
+  <text
+     x="1274"
+     y="1603"
+     transform="translate(-41,-70)"
+     style="fill:rgb(50,50,50);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text9071">+inputLayer</text>
+  <rect
+     width="279"
+     x="621"
+     y="478"
+     height="162"
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     id="rect9073" />
+  <text
+     x="760"
+     y="493"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:700;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text9075">NeuronLayer</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="496"
+     y2="496"
+     x1="621"
+     x2="899"
+     id="line9077" />
+  <text
+     x="626"
+     y="511"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9079"># neurons : Neuron[]</text>
+  <line
+     transform="translate(-41,-70)"
+     style="stroke:rgb(255,0,0);stroke-width:0.9;fill:rgb(255,255,192);"
+     y1="514"
+     y2="514"
+     x1="621"
+     x2="899"
+     id="line9081" />
+  <text
+     x="626"
+     y="529"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9083"># addNeuron(p_neuron : Neuron)</text>
+  <text
+     x="626"
+     y="547"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9085"># removeNeuron(p_neuron : Neuron)</text>
+  <text
+     x="626"
+     y="565"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9087"># removeNeuron(p_index : int)</text>
+  <text
+     x="626"
+     y="583"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9089">+ countNeurons() : int</text>
+  <text
+     x="626"
+     y="601"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9091"># getNeuron(p_index : int) : Neuron</text>
+  <text
+     x="626"
+     y="619"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9093">+ getNeurons() : Neuron[]</text>
+  <text
+     x="626"
+     y="637"
+     transform="translate(-41,-70)"
+     style="fill:rgb(0,0,0);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     id="text9095">+ isPresent(p_neuron : Neuron) : boolean</text>
+  <text
+     x="212"
+     y="851"
+     transform="translate(-41,-70)"
+     style="fill:rgb(50,50,50);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text9097">+outputLayer</text>
+  <text
+     x="361"
+     y="1059"
+     transform="translate(-41,-70)"
+     style="fill:rgb(50,50,50);stroke-width:0;font-size:10;font-style:normal;font-weight:400;font-family:Sans Serif;"
+     text-anchor="middle"
+     id="text9099">+source</text>
+</svg>

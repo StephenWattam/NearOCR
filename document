@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -r Docs
+javadoc -d Docs -version -author -quiet NearNeural/*.java NearOCR/*.java *.java
